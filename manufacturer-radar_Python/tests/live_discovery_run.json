@@ -1,0 +1,2151 @@
+{
+  "query": "水处理",
+  "elapsed_seconds": 8.58,
+  "statuses": {
+    "hc360": {
+      "status": "error",
+      "label": "慧聪网",
+      "pages": 0,
+      "attempted_pages": 1,
+      "parsed_pages": 0,
+      "hits": 0,
+      "seeds": 0,
+      "message": "DNS 解析失败：[Errno 11001] getaddrinfo failed"
+    },
+    "madeinchina": {
+      "status": "blocked",
+      "label": "中国制造网",
+      "pages": 1,
+      "attempted_pages": 1,
+      "parsed_pages": 0,
+      "hits": 0,
+      "seeds": 0,
+      "message": "平台要求验证或登录，请使用浏览器辅助处理"
+    },
+    "b2b168": {
+      "status": "ok",
+      "label": "八方资源网",
+      "pages": 1,
+      "attempted_pages": 1,
+      "parsed_pages": 1,
+      "hits": 32,
+      "seeds": 0,
+      "message": "实际读取 1 页；32 个详情候选，需进入页面识别厂家"
+    },
+    "1688": {
+      "status": "needs_browser",
+      "label": "1688找工厂",
+      "pages": 1,
+      "attempted_pages": 1,
+      "parsed_pages": 0,
+      "hits": 0,
+      "seeds": 0,
+      "message": "平台由 JavaScript 加载结果或需要登录，请使用浏览器辅助"
+    },
+    "gys": {
+      "status": "error",
+      "label": "供应商网",
+      "pages": 0,
+      "attempted_pages": 1,
+      "parsed_pages": 0,
+      "hits": 0,
+      "seeds": 0,
+      "message": "网页访问失败：CheckedHTTPSPool(host='product.cn.gys.cn', port=443): Max retries exceeded with url: /suppliers/%CB%AE%B4%A6%C0%ED/ (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'product.cn.gys.cn'. (_ssl.c:1082)\")))"
+    },
+    "catalog:2": {
+      "status": "ok",
+      "label": "cippe 2026 上海石化展商名录",
+      "pages": 1,
+      "attempted_pages": 1,
+      "parsed_pages": 1,
+      "hits": 0,
+      "seeds": 1,
+      "message": "实际读取 1 个页面/附件；1 条相关线索，仍需核实厂家",
+      "url": "https://sh.cippe.com.cn/exdb/"
+    },
+    "aicaigou": {
+      "status": "needs_browser",
+      "label": "百度爱采购",
+      "pages": 1,
+      "attempted_pages": 1,
+      "parsed_pages": 0,
+      "hits": 0,
+      "seeds": 0,
+      "message": "平台由 JavaScript 加载结果或需要登录，请使用浏览器辅助"
+    },
+    "catalog:1": {
+      "status": "ok",
+      "label": "工信部：2025 年度绿色工厂官方名单",
+      "pages": 3,
+      "attempted_pages": 3,
+      "parsed_pages": 3,
+      "hits": 0,
+      "seeds": 0,
+      "message": "实际读取 3 个页面/附件；0 条相关线索，仍需核实厂家",
+      "url": "https://www.miit.gov.cn/jgsj/jns/lszz/art/2026/art_83c4f4f9652846c1b24f1f250f4a3591.html"
+    }
+  },
+  "hits": [
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "水处理复合碳源 污水处理用 漳州复合碳源",
+      "url": "https://info.b2b168.com/s168-290112129.html",
+      "snippet": "水处理复合碳源 污水处理用 漳州复合碳源 漳州复合碳源 999.00元/吨 苏州润杰尔环保新材料有限公司江苏-苏州",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "苏州润杰尔环保新材料有限公司",
+      "source_excerpt": "水处理复合碳源 污水处理用 漳州复合碳源 漳州复合碳源 999.00元/吨 苏州润杰尔环保新材料有限公司江苏-苏州",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "苏州润杰尔环保新材料有限公司",
+      "url": "https://www.b2b168.com/c168-23120659.html",
+      "snippet": "水处理复合碳源 污水处理用 漳州复合碳源 漳州复合碳源 999.00元/吨 苏州润杰尔环保新材料有限公司江苏-苏州",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "苏州润杰尔环保新材料有限公司",
+      "source_excerpt": "水处理复合碳源 污水处理用 漳州复合碳源 漳州复合碳源 999.00元/吨 苏州润杰尔环保新材料有限公司江苏-苏州",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "广东国际水处理展会刊-亲戚物流发展博览会会刊",
+      "url": "https://info.b2b168.com/s168-290744999.html",
+      "snippet": "广东国际水处理展会刊-亲戚物流发展博览会会刊 中国纺织机械展会刊 面议 广州时光展览有限公司广东-广州",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "广州时光展览有限公司",
+      "source_excerpt": "广东国际水处理展会刊-亲戚物流发展博览会会刊 中国纺织机械展会刊 面议 广州时光展览有限公司广东-广州",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "广州时光展览有限公司",
+      "url": "https://www.b2b168.com/c168-13819774.html",
+      "snippet": "广东国际水处理展会刊-亲戚物流发展博览会会刊 中国纺织机械展会刊 面议 广州时光展览有限公司广东-广州",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "广州时光展览有限公司",
+      "source_excerpt": "广东国际水处理展会刊-亲戚物流发展博览会会刊 中国纺织机械展会刊 面议 广州时光展览有限公司广东-广州",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "输配水设备水处理材料项目 纯净水外理器检测",
+      "url": "https://info.b2b168.com/s168-290883057.html",
+      "snippet": "输配水设备水处理材料项目 纯净水外理器检测 输配水设备水处理材料项目 面议 广州市微生物研究所集团股份有限公司广东-广州",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "广州市微生物研究所集团股份有限公司",
+      "source_excerpt": "输配水设备水处理材料项目 纯净水外理器检测 输配水设备水处理材料项目 面议 广州市微生物研究所集团股份有限公司广东-广州",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "广州市微生物研究所集团股份有限公司",
+      "url": "https://www.b2b168.com/c168-15276909.html",
+      "snippet": "输配水设备水处理材料项目 纯净水外理器检测 输配水设备水处理材料项目 面议 广州市微生物研究所集团股份有限公司广东-广州",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "广州市微生物研究所集团股份有限公司",
+      "source_excerpt": "输配水设备水处理材料项目 纯净水外理器检测 输配水设备水处理材料项目 面议 广州市微生物研究所集团股份有限公司广东-广州",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建",
+      "url": "https://shanghui11083744.cn.b2b168.com/s298619840.html",
+      "snippet": "别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建 游泳池工程 1680.00元/套 东莞青马水环境工程有限公司广东-东莞",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "东莞青马水环境工程有限公司",
+      "source_excerpt": "别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建 游泳池工程 1680.00元/套 东莞青马水环境工程有限公司广东-东莞",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "东莞青马水环境工程有限公司",
+      "url": "https://www.b2b168.com/c168-22993933.html",
+      "snippet": "别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建 游泳池工程 1680.00元/套 东莞青马水环境工程有限公司广东-东莞",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "东莞青马水环境工程有限公司",
+      "source_excerpt": "别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建 游泳池工程 1680.00元/套 东莞青马水环境工程有限公司广东-东莞",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品",
+      "url": "https://info.b2b168.com/s168-292614665.html",
+      "snippet": "水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品 反渗透絮凝剂厂家 180.00元/桶 东莞晋诚水处理科技有限公司广东-东莞",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "东莞晋诚水处理科技有限公司",
+      "source_excerpt": "水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品 反渗透絮凝剂厂家 180.00元/桶 东莞晋诚水处理科技有限公司广东-东莞",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "东莞晋诚水处理科技有限公司",
+      "url": "https://www.b2b168.com/c168-23135932.html",
+      "snippet": "水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品 反渗透絮凝剂厂家 180.00元/桶 东莞晋诚水处理科技有限公司广东-东莞",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "东莞晋诚水处理科技有限公司",
+      "source_excerpt": "水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品 反渗透絮凝剂厂家 180.00元/桶 东莞晋诚水处理科技有限公司广东-东莞",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "自动定压排气机组生产厂家 石家庄博谊水处理厂",
+      "url": "https://info.b2b168.com/s168-292488140.html",
+      "snippet": "自动定压排气机组生产厂家 石家庄博谊水处理厂 定压排气机组 面议 石家庄博谊环保设备有限公司河北-石家庄",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "石家庄博谊环保设备有限公司",
+      "source_excerpt": "自动定压排气机组生产厂家 石家庄博谊水处理厂 定压排气机组 面议 石家庄博谊环保设备有限公司河北-石家庄",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "石家庄博谊环保设备有限公司",
+      "url": "https://www.b2b168.com/c168-13784230.html",
+      "snippet": "自动定压排气机组生产厂家 石家庄博谊水处理厂 定压排气机组 面议 石家庄博谊环保设备有限公司河北-石家庄",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "石家庄博谊环保设备有限公司",
+      "source_excerpt": "自动定压排气机组生产厂家 石家庄博谊水处理厂 定压排气机组 面议 石家庄博谊环保设备有限公司河北-石家庄",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "石家庄博谊冷热水全程水处理仪图片",
+      "url": "https://info.b2b168.com/s168-292861262.html",
+      "snippet": "石家庄博谊冷热水全程水处理仪图片 全程水处理仪图片 面议 石家庄博谊环保设备有限公司河北-石家庄",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "石家庄博谊环保设备有限公司",
+      "source_excerpt": "石家庄博谊冷热水全程水处理仪图片 全程水处理仪图片 面议 石家庄博谊环保设备有限公司河北-石家庄",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "石家庄博谊环保设备有限公司",
+      "url": "https://www.b2b168.com/c168-13516319.html",
+      "snippet": "石家庄博谊冷热水全程水处理仪图片 全程水处理仪图片 面议 石家庄博谊环保设备有限公司河北-石家庄",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "石家庄博谊环保设备有限公司",
+      "source_excerpt": "石家庄博谊冷热水全程水处理仪图片 全程水处理仪图片 面议 石家庄博谊环保设备有限公司河北-石家庄",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加",
+      "url": "https://info.b2b168.com/s168-296361231.html",
+      "snippet": "多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加 麦饭石粉 280.00元/吨 灵寿县京鹏矿产品加工厂河北-石家庄",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "灵寿县京鹏矿产品加工厂",
+      "source_excerpt": "多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加 麦饭石粉 280.00元/吨 灵寿县京鹏矿产品加工厂河北-石家庄",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "灵寿县京鹏矿产品加工厂",
+      "url": "https://www.b2b168.com/c168-15151805.html",
+      "snippet": "多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加 麦饭石粉 280.00元/吨 灵寿县京鹏矿产品加工厂河北-石家庄",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "灵寿县京鹏矿产品加工厂",
+      "source_excerpt": "多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加 麦饭石粉 280.00元/吨 灵寿县京鹏矿产品加工厂河北-石家庄",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "吴忠全程水处理仪 【全程水处理仪】应用范围",
+      "url": "https://info.b2b168.com/s168-291160498.html",
+      "snippet": "吴忠全程水处理仪 【全程水处理仪】应用范围 吴忠全程水处理仪 面议 安徽励进环保科技有限公司安徽-蚌埠",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "安徽励进环保科技有限公司",
+      "source_excerpt": "吴忠全程水处理仪 【全程水处理仪】应用范围 吴忠全程水处理仪 面议 安徽励进环保科技有限公司安徽-蚌埠",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "安徽励进环保科技有限公司",
+      "url": "https://www.b2b168.com/c168-14522583.html",
+      "snippet": "吴忠全程水处理仪 【全程水处理仪】应用范围 吴忠全程水处理仪 面议 安徽励进环保科技有限公司安徽-蚌埠",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "安徽励进环保科技有限公司",
+      "source_excerpt": "吴忠全程水处理仪 【全程水处理仪】应用范围 吴忠全程水处理仪 面议 安徽励进环保科技有限公司安徽-蚌埠",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "江西污水处理片碱 用于水处理调节PH值 易溶于水",
+      "url": "https://info.b2b168.com/s168-294169618.html",
+      "snippet": "江西污水处理片碱 用于水处理调节PH值 易溶于水 江西污水处理片碱 3.00元/千克 上海孟龙实业有限公司上海-杨浦",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "上海孟龙实业有限公司",
+      "source_excerpt": "江西污水处理片碱 用于水处理调节PH值 易溶于水 江西污水处理片碱 3.00元/千克 上海孟龙实业有限公司上海-杨浦",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "上海孟龙实业有限公司",
+      "url": "https://www.b2b168.com/c168-23134463.html",
+      "snippet": "江西污水处理片碱 用于水处理调节PH值 易溶于水 江西污水处理片碱 3.00元/千克 上海孟龙实业有限公司上海-杨浦",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "上海孟龙实业有限公司",
+      "source_excerpt": "江西污水处理片碱 用于水处理调节PH值 易溶于水 江西污水处理片碱 3.00元/千克 上海孟龙实业有限公司上海-杨浦",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化",
+      "url": "https://info.b2b168.com/s168-293349556.html",
+      "snippet": "美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化 美能滤膜组件设备 150.00元/平方米 四川赛诺行环保科技有限公司四川-绵阳",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "四川赛诺行环保科技有限公司",
+      "source_excerpt": "美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化 美能滤膜组件设备 150.00元/平方米 四川赛诺行环保科技有限公司四川-绵阳",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "四川赛诺行环保科技有限公司",
+      "url": "https://www.b2b168.com/c168-17947459.html",
+      "snippet": "美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化 美能滤膜组件设备 150.00元/平方米 四川赛诺行环保科技有限公司四川-绵阳",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "四川赛诺行环保科技有限公司",
+      "source_excerpt": "美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化 美能滤膜组件设备 150.00元/平方米 四川赛诺行环保科技有限公司四川-绵阳",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源",
+      "url": "https://info.b2b168.com/s168-293385656.html",
+      "snippet": "电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源 电絮凝水处理脉冲电源 98.00元/个 青岛华能远见电气有限公司山东-青岛",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "青岛华能远见电气有限公司",
+      "source_excerpt": "电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源 电絮凝水处理脉冲电源 98.00元/个 青岛华能远见电气有限公司山东-青岛",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "青岛华能远见电气有限公司",
+      "url": "https://www.b2b168.com/c168-2638619.html",
+      "snippet": "电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源 电絮凝水处理脉冲电源 98.00元/个 青岛华能远见电气有限公司山东-青岛",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "青岛华能远见电气有限公司",
+      "source_excerpt": "电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源 电絮凝水处理脉冲电源 98.00元/个 青岛华能远见电气有限公司山东-青岛",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "水处理设备销毁 怎么收费处理 提供合理的处理方案",
+      "url": "https://info.b2b168.com/s168-299020387.html",
+      "snippet": "水处理设备销毁 怎么收费处理 提供合理的处理方案 水处理设备销毁 1000.00元/吨 上海珑搏环保科技有限公司上海-奉贤",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "上海珑搏环保科技有限公司",
+      "source_excerpt": "水处理设备销毁 怎么收费处理 提供合理的处理方案 水处理设备销毁 1000.00元/吨 上海珑搏环保科技有限公司上海-奉贤",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "上海珑搏环保科技有限公司",
+      "url": "https://www.b2b168.com/c168-9658358.html",
+      "snippet": "水处理设备销毁 怎么收费处理 提供合理的处理方案 水处理设备销毁 1000.00元/吨 上海珑搏环保科技有限公司上海-奉贤",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "上海珑搏环保科技有限公司",
+      "source_excerpt": "水处理设备销毁 怎么收费处理 提供合理的处理方案 水处理设备销毁 1000.00元/吨 上海珑搏环保科技有限公司上海-奉贤",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "价格优惠 黄山172nm准分子灯水处理",
+      "url": "https://info.b2b168.com/s168-299801476.html",
+      "snippet": "价格优惠 黄山172nm准分子灯水处理 黄山172nm准分子灯水处理 100000.00元/套 广东准分子光电科技有限公司广东-江门",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "广东准分子光电科技有限公司",
+      "source_excerpt": "价格优惠 黄山172nm准分子灯水处理 黄山172nm准分子灯水处理 100000.00元/套 广东准分子光电科技有限公司广东-江门",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "广东准分子光电科技有限公司",
+      "url": "https://www.b2b168.com/c168-23122263.html",
+      "snippet": "价格优惠 黄山172nm准分子灯水处理 黄山172nm准分子灯水处理 100000.00元/套 广东准分子光电科技有限公司广东-江门",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "广东准分子光电科技有限公司",
+      "source_excerpt": "价格优惠 黄山172nm准分子灯水处理 黄山172nm准分子灯水处理 100000.00元/套 广东准分子光电科技有限公司广东-江门",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "上海销毁沐浴乳处理公司，香水报废处理销毁",
+      "url": "https://info.b2b168.com/s168-302398758.html",
+      "snippet": "上海销毁沐浴乳处理公司，香水报废处理销毁 嘉定销毁漱口水处理公司 1000.00元/吨 上海物守再生物资利用有限公司上海-嘉定",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "上海物守再生物资利用有限公司",
+      "source_excerpt": "上海销毁沐浴乳处理公司，香水报废处理销毁 嘉定销毁漱口水处理公司 1000.00元/吨 上海物守再生物资利用有限公司上海-嘉定",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "上海物守再生物资利用有限公司",
+      "url": "https://www.b2b168.com/c168-3457459.html",
+      "snippet": "上海销毁沐浴乳处理公司，香水报废处理销毁 嘉定销毁漱口水处理公司 1000.00元/吨 上海物守再生物资利用有限公司上海-嘉定",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "上海物守再生物资利用有限公司",
+      "source_excerpt": "上海销毁沐浴乳处理公司，香水报废处理销毁 嘉定销毁漱口水处理公司 1000.00元/吨 上海物守再生物资利用有限公司上海-嘉定",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "集井水浮油处理油水分离器 厂区雨水收集油污水分离器",
+      "url": "https://jhwater.cn.b2b168.com/s299839207.html",
+      "snippet": "集井水浮油处理油水分离器 厂区雨水收集油污水分离器 集井水浮油处理油水分离器 13000.00元/台 宜兴市建化水处理有限公司江苏-无锡",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "宜兴市建化水处理有限公司",
+      "source_excerpt": "集井水浮油处理油水分离器 厂区雨水收集油污水分离器 集井水浮油处理油水分离器 13000.00元/台 宜兴市建化水处理有限公司江苏-无锡",
+      "lookup_query": "",
+      "discovery_source": ""
+    },
+    {
+      "engine": "b2b168",
+      "query": "水处理",
+      "page": 1,
+      "title": "宜兴市建化水处理有限公司",
+      "url": "https://www.b2b168.com/c168-3885453.html",
+      "snippet": "集井水浮油处理油水分离器 厂区雨水收集油污水分离器 集井水浮油处理油水分离器 13000.00元/台 宜兴市建化水处理有限公司江苏-无锡",
+      "search_url": "https://www.b2b168.com/k-shuichuli/",
+      "ad_status": "未标识",
+      "fetched_at": "2026-11-11T15:58:25+08:00",
+      "source_url": "https://www.b2b168.com/k-shuichuli/",
+      "company_hint": "宜兴市建化水处理有限公司",
+      "source_excerpt": "集井水浮油处理油水分离器 厂区雨水收集油污水分离器 集井水浮油处理油水分离器 13000.00元/台 宜兴市建化水处理有限公司江苏-无锡",
+      "lookup_query": "",
+      "discovery_source": ""
+    }
+  ],
+  "seeds": [
+    {
+      "name": "上海强源水处理技术有限公司",
+      "url": "",
+      "phones": [],
+      "address": "",
+      "source": "catalog",
+      "source_url": "https://sh.cippe.com.cn/exdb/index.php/Index/index",
+      "excerpt": "E2926 上海强源水处理技术有限公司",
+      "products": []
+    }
+  ],
+  "qualification": [
+    {
+      "source": "b2b168",
+      "title": "输配水设备水处理材料项目 纯净水外理器检测",
+      "url": "https://info.b2b168.com/s168-290883057.html",
+      "final_url": "https://info.b2b168.com/s168-290883057.html",
+      "reason": "页面只证明供应、经销或维修服务，缺少此主体自身生产/制造依据，未作为厂家入库",
+      "company": null
+    },
+    {
+      "source": "b2b168",
+      "title": "水处理设备销毁 怎么收费处理 提供合理的处理方案",
+      "url": "https://info.b2b168.com/s168-299020387.html",
+      "final_url": "https://info.b2b168.com/s168-299020387.html",
+      "reason": "虽出现关键词，但缺少生产、制造、主营、销售或单一产品供应关系的页面证据",
+      "company": null
+    },
+    {
+      "source": "b2b168",
+      "title": "石家庄博谊环保设备有限公司",
+      "url": "https://www.b2b168.com/c168-13784230.html",
+      "final_url": "https://www.b2b168.com/c168-13784230.html",
+      "reason": "已读取详情页，厂家主体、产品相关性及生产/供应关系均有页面依据",
+      "company": {
+        "id": "7f22a0587b714e40929888434c7cbbc9",
+        "name": "石家庄博谊水处理厂",
+        "name_confirmed": true,
+        "phones": [],
+        "urls": [
+          "https://www.b2b168.com/c168-13784230.html"
+        ],
+        "hits": [
+          {
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "title": "石家庄博谊环保设备有限公司",
+            "url": "https://www.b2b168.com/c168-13784230.html",
+            "snippet": "自动定压排气机组生产厂家 石家庄博谊水处理厂 定压排气机组 面议 石家庄博谊环保设备有限公司河北-石家庄",
+            "search_url": "https://www.b2b168.com/k-shuichuli/",
+            "ad_status": "未标识",
+            "fetched_at": "2026-11-11T15:58:25+08:00",
+            "source_url": "https://www.b2b168.com/k-shuichuli/",
+            "company_hint": "石家庄博谊环保设备有限公司",
+            "source_excerpt": "自动定压排气机组生产厂家 石家庄博谊水处理厂 定压排气机组 面议 石家庄博谊环保设备有限公司河北-石家庄",
+            "lookup_query": "",
+            "discovery_source": ""
+          }
+        ],
+        "evidence": [
+          {
+            "kind": "收录",
+            "url": "https://www.b2b168.com/c168-13784230.html",
+            "excerpt": "石家庄博谊环保设备有限公司 自动定压排气机组生产厂家 石家庄博谊水处理厂 定压排气机组 面议 石家庄博谊环保设备有限公司河北-石家庄",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "搜索发现来源，仅作追溯",
+            "fetched_at": "2026-11-11T15:58:25+08:00"
+          },
+          {
+            "kind": "详情页核验",
+            "url": "https://www.b2b168.com/c168-13784230.html",
+            "excerpt": "已实际读取详情页并识别主体：石家庄博谊水处理厂（单一供应主体标签） | 厂家自身产品/经营信息与“水处理”匹配：经营范围 空调设备、水处理设备、供水设备、换热器设备、空气净化设备、中水及污水处理设备的生产、销售及技术咨询服务;化工设备、压力容器的销售。(依法须经批准的项目,经相关部门批准后方可开展经营活动) | 厂家生产/制造依据：或服务 分集水器 , 隔膜式定压罐 , 容积式换热器；空调设备、水处理设备、供水设备、换热器设备、空气净化设备、中水及污水处理设备的生产、销售及技术咨询服务;化工设备、压力容器的销售。(依法须经批准的项目,经相关部门批准后方可开展经营活动)；自动定压排气机组生产厂家  ",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "已读取并识别页面主体，未认证工商或信用",
+            "fetched_at": "2026-11-11T15:58:31+08:00"
+          },
+          {
+            "kind": "名称",
+            "url": "https://www.b2b168.com/c168-13784230.html",
+            "excerpt": "自动定压排气机组生产厂家 石家庄博谊水处理厂",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家/供应商页面主体文本提取",
+            "fetched_at": "2026-11-11T15:58:31+08:00"
+          },
+          {
+            "kind": "主营产品",
+            "url": "https://www.b2b168.com/c168-13784230.html",
+            "excerpt": "经营范围 空调设备、水处理设备、供水设备、换热器设备、空气净化设备、中水及污水处理设备的生产、销售及技术咨询服务;化工设备、压力容器的销售。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家页面公开产品描述",
+            "fetched_at": "2026-11-11T15:58:31+08:00"
+          },
+          {
+            "kind": "经营范围",
+            "url": "https://www.b2b168.com/c168-13784230.html",
+            "excerpt": "或服务 分集水器 , 隔膜式定压罐 , 容积式换热器；空调设备、水处理设备、供水设备、换热器设备、空气净化设备、中水及污水处理设备的生产、销售及技术咨询服务;化工设备、压力容器的销售。(依法须经批准的项目,经相关部门批准后方可开展经营活动)；自动定压排气机组生产厂家 石家庄博谊水处理厂",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "公开业务描述，未核实工商登记范围",
+            "fetched_at": "2026-11-11T15:58:31+08:00"
+          }
+        ],
+        "negative_status": "未检查",
+        "score": 0,
+        "score_reasons": [],
+        "notes": "页面主体与产品相关性已按公开内容识别；未进行工商资质、信用或电话归属的外部认证。",
+        "updated_at": "2026-11-11T15:58:31+08:00",
+        "page_verified": true,
+        "verification_url": "https://www.b2b168.com/c168-13784230.html",
+        "products": [
+          "隔膜式定压罐",
+          "容积式换热器",
+          "空调设备",
+          "水处理设备",
+          "供水设备",
+          "换热器设备",
+          "空气净化设备",
+          "中水及污水处理设备的生产",
+          "化工设备",
+          "压力容器的销售。(依法须经批准的项目",
+          "经相关部门批准后方可开展经营活动)",
+          "八方资源网-赢造自由的网上贸易",
+          "压力容器的销售",
+          "污水处理设备"
+        ],
+        "business_scope": "或服务 分集水器 , 隔膜式定压罐 , 容积式换热器；空调设备、水处理设备、供水设备、换热器设备、空气净化设备、中水及污水处理设备的生产、销售及技术咨询服务;化工设备、压力容器的销售。(依法须经批准的项目,经相关部门批准后方可开展经营活动)；自动定压排气机组生产厂家 石家庄博谊水处理厂",
+        "region": "",
+        "address": "",
+        "admission_reasons": [
+          "已实际读取详情页并识别主体：石家庄博谊水处理厂（单一供应主体标签）",
+          "厂家自身产品/经营信息与“水处理”匹配：经营范围 空调设备、水处理设备、供水设备、换热器设备、空气净化设备、中水及污水处理设备的生产、销售及技术咨询服务;化工设备、压力容器的销售。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+          "厂家生产/制造依据：或服务 分集水器 , 隔膜式定压罐 , 容积式换热器；空调设备、水处理设备、供水设备、换热器设备、空气净化设备、中水及污水处理设备的生产、销售及技术咨询服务;化工设备、压力容器的销售。(依法须经批准的项目,经相关部门批准后方可开展经营活动)；自动定压排气机组生产厂家  "
+        ]
+      }
+    },
+    {
+      "source": "b2b168",
+      "title": "石家庄博谊环保设备有限公司",
+      "url": "https://www.b2b168.com/c168-13516319.html",
+      "final_url": "https://www.b2b168.com/c168-13516319.html",
+      "reason": "已读取详情页，厂家主体、产品相关性及生产/供应关系均有页面依据",
+      "company": {
+        "id": "0d2c3d56dbdc4f6288b3a3f961ddf4da",
+        "name": "石家庄博谊环保设备有限公司",
+        "name_confirmed": true,
+        "phones": [
+          "0311-82236170"
+        ],
+        "urls": [
+          "https://www.b2b168.com/c168-13516319.html"
+        ],
+        "hits": [
+          {
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "title": "石家庄博谊环保设备有限公司",
+            "url": "https://www.b2b168.com/c168-13516319.html",
+            "snippet": "石家庄博谊冷热水全程水处理仪图片 全程水处理仪图片 面议 石家庄博谊环保设备有限公司河北-石家庄",
+            "search_url": "https://www.b2b168.com/k-shuichuli/",
+            "ad_status": "未标识",
+            "fetched_at": "2026-11-11T15:58:25+08:00",
+            "source_url": "https://www.b2b168.com/k-shuichuli/",
+            "company_hint": "石家庄博谊环保设备有限公司",
+            "source_excerpt": "石家庄博谊冷热水全程水处理仪图片 全程水处理仪图片 面议 石家庄博谊环保设备有限公司河北-石家庄",
+            "lookup_query": "",
+            "discovery_source": ""
+          }
+        ],
+        "evidence": [
+          {
+            "kind": "收录",
+            "url": "https://www.b2b168.com/c168-13516319.html",
+            "excerpt": "石家庄博谊环保设备有限公司 石家庄博谊冷热水全程水处理仪图片 全程水处理仪图片 面议 石家庄博谊环保设备有限公司河北-石家庄",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "搜索发现来源，仅作追溯",
+            "fetched_at": "2026-11-11T15:58:25+08:00"
+          },
+          {
+            "kind": "详情页核验",
+            "url": "https://www.b2b168.com/c168-13516319.html",
+            "excerpt": "已实际读取详情页并识别主体：石家庄博谊环保设备有限公司（详情页标题全称、企业自述经营介绍） | 厂家自身产品/经营信息与“水处理”匹配：经营范围 空调设备、水处理设备、供水设备、换热器设备、空气净化设备、中水及污水处理设备的生产、销售及技术咨询服务;化工设备、压力容器的销售。(依法须经批准的项目,经相关部门批准后方可开展经营活动) | 厂家生产/制造依据：位置地图；您当前的位置: 首页 > 企业黄页 > 机床 > 机械设备 > 过滤设备 >   公司商铺 公司简介 联系方式 基本资料 工商信息 咨询留言 供应产品 位置地图；或服务 分集水器 , 隔膜式气压罐 , 定压补水装置；空调设备、水处理设备、供水设备、换热器设备、空气净化设备、中水及污水处理设备的生产、销售及技术咨询服务;化工设备、压力容器的销售。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "已读取并识别页面主体，未认证工商或信用",
+            "fetched_at": "2026-11-11T15:58:31+08:00"
+          },
+          {
+            "kind": "名称",
+            "url": "https://www.b2b168.com/c168-13516319.html",
+            "excerpt": "石家庄博谊环保设备有限公司 - 八方资源网 | 您当前的位置: 首页 > 企业黄页 > 机床 > 机械设备 > 过滤设备 > 石家庄博谊环保设备有限公司 公司商铺 公司简介 联系方式 基本资料 工商信息 咨询留言 供应产品 位置地图",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家/供应商页面主体文本提取",
+            "fetched_at": "2026-11-11T15:58:31+08:00"
+          },
+          {
+            "kind": "主营产品",
+            "url": "https://www.b2b168.com/c168-13516319.html",
+            "excerpt": "经营范围 空调设备、水处理设备、供水设备、换热器设备、空气净化设备、中水及污水处理设备的生产、销售及技术咨询服务;化工设备、压力容器的销售。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家页面公开产品描述",
+            "fetched_at": "2026-11-11T15:58:31+08:00"
+          },
+          {
+            "kind": "经营范围",
+            "url": "https://www.b2b168.com/c168-13516319.html",
+            "excerpt": "位置地图；您当前的位置: 首页 > 企业黄页 > 机床 > 机械设备 > 过滤设备 > 石家庄博谊环保设备有限公司 公司商铺 公司简介 联系方式 基本资料 工商信息 咨询留言 供应产品 位置地图；或服务 分集水器 , 隔膜式气压罐 , 定压补水装置；空调设备、水处理设备、供水设备、换热器设备、空气净化设备、中水及污水处理设备的生产、销售及技术咨询服务;化工设备、压力容器的销售。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "公开业务描述，未核实工商登记范围",
+            "fetched_at": "2026-11-11T15:58:31+08:00"
+          },
+          {
+            "kind": "地区地址",
+            "url": "https://www.b2b168.com/c168-13516319.html",
+            "excerpt": "石家庄博谊环保设备有限公司 更新日期:2026-08-19 状态: 存续(在营、开业、在册) 电话:0311-82236170 主页:ak47ddd.cn.b2b168.com/ 地址:河北省石家庄鹿泉区河北省石家庄市鹿泉区铜冶镇北铜冶村北 查看地图 留言(0) 浏览(52346)",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "页面公开地址，未实地核实",
+            "fetched_at": "2026-11-11T15:58:31+08:00"
+          },
+          {
+            "kind": "电话",
+            "url": "https://www.b2b168.com/c168-13516319.html",
+            "excerpt": "石家庄博谊环保设备有限公司 更新日期:2026-08-19 状态: 存续(在营、开业、在册) 电话:0311-82236170 主页:ak47ddd.cn.b2b168.com/ 地址:河北省石家庄鹿泉区河北省石家庄市鹿泉区铜冶镇北铜冶村北 查看地图 留言(0) 浏览(52346)",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家公开联系方式，号码有效性待核实",
+            "fetched_at": "2026-11-11T15:58:31+08:00"
+          }
+        ],
+        "negative_status": "未检查",
+        "score": 0,
+        "score_reasons": [],
+        "notes": "页面主体与产品相关性已按公开内容识别；未进行工商资质、信用或电话归属的外部认证。",
+        "updated_at": "2026-11-11T15:58:31+08:00",
+        "page_verified": true,
+        "verification_url": "https://www.b2b168.com/c168-13516319.html",
+        "products": [
+          "位置地图",
+          "隔膜式气压罐",
+          "定压补水装置",
+          "空调设备",
+          "水处理设备",
+          "供水设备",
+          "换热器设备",
+          "空气净化设备",
+          "中水及污水处理设备的生产",
+          "化工设备",
+          "压力容器的销售。(依法须经批准的项目",
+          "经相关部门批准后方可开展经营活动)",
+          "压力容器的销售",
+          "污水处理设备"
+        ],
+        "business_scope": "位置地图；您当前的位置: 首页 > 企业黄页 > 机床 > 机械设备 > 过滤设备 > 石家庄博谊环保设备有限公司 公司商铺 公司简介 联系方式 基本资料 工商信息 咨询留言 供应产品 位置地图；或服务 分集水器 , 隔膜式气压罐 , 定压补水装置；空调设备、水处理设备、供水设备、换热器设备、空气净化设备、中水及污水处理设备的生产、销售及技术咨询服务;化工设备、压力容器的销售。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+        "region": "河北",
+        "address": "河北省石家庄鹿泉区河北省石家庄市鹿泉区铜冶镇北铜冶村北",
+        "admission_reasons": [
+          "已实际读取详情页并识别主体：石家庄博谊环保设备有限公司（详情页标题全称、企业自述经营介绍）",
+          "厂家自身产品/经营信息与“水处理”匹配：经营范围 空调设备、水处理设备、供水设备、换热器设备、空气净化设备、中水及污水处理设备的生产、销售及技术咨询服务;化工设备、压力容器的销售。(依法须经批准的项目,经相关部门批准后方可开展经营活动)",
+          "厂家生产/制造依据：位置地图；您当前的位置: 首页 > 企业黄页 > 机床 > 机械设备 > 过滤设备 >   公司商铺 公司简介 联系方式 基本资料 工商信息 咨询留言 供应产品 位置地图；或服务 分集水器 , 隔膜式气压罐 , 定压补水装置；空调设备、水处理设备、供水设备、换热器设备、空气净化设备、中水及污水处理设备的生产、销售及技术咨询服务;化工设备、压力容器的销售。(依法须经批准的项目,经相关部门批准后方可开展经营活动)"
+        ]
+      }
+    },
+    {
+      "source": "b2b168",
+      "title": "水处理复合碳源 污水处理用 漳州复合碳源",
+      "url": "https://info.b2b168.com/s168-290112129.html",
+      "final_url": "https://info.b2b168.com/s168-290112129.html",
+      "reason": "已读取详情页，厂家主体、产品相关性及生产/供应关系均有页面依据",
+      "company": {
+        "id": "ca4d103a73684a179d82ecff7f4ef4ce",
+        "name": "苏州润杰尔环保新材料有限公司",
+        "name_confirmed": true,
+        "phones": [
+          "13914914334"
+        ],
+        "urls": [
+          "https://info.b2b168.com/s168-290112129.html"
+        ],
+        "hits": [
+          {
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "title": "水处理复合碳源 污水处理用 漳州复合碳源",
+            "url": "https://info.b2b168.com/s168-290112129.html",
+            "snippet": "水处理复合碳源 污水处理用 漳州复合碳源 漳州复合碳源 999.00元/吨 苏州润杰尔环保新材料有限公司江苏-苏州",
+            "search_url": "https://www.b2b168.com/k-shuichuli/",
+            "ad_status": "未标识",
+            "fetched_at": "2026-11-11T15:58:25+08:00",
+            "source_url": "https://www.b2b168.com/k-shuichuli/",
+            "company_hint": "苏州润杰尔环保新材料有限公司",
+            "source_excerpt": "水处理复合碳源 污水处理用 漳州复合碳源 漳州复合碳源 999.00元/吨 苏州润杰尔环保新材料有限公司江苏-苏州",
+            "lookup_query": "",
+            "discovery_source": ""
+          }
+        ],
+        "evidence": [
+          {
+            "kind": "收录",
+            "url": "https://info.b2b168.com/s168-290112129.html",
+            "excerpt": "水处理复合碳源 污水处理用 漳州复合碳源 水处理复合碳源 污水处理用 漳州复合碳源 漳州复合碳源 999.00元/吨 苏州润杰尔环保新材料有限公司江苏-苏州",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "搜索发现来源，仅作追溯",
+            "fetched_at": "2026-11-11T15:58:25+08:00"
+          },
+          {
+            "kind": "详情页核验",
+            "url": "https://info.b2b168.com/s168-290112129.html",
+            "excerpt": "已实际读取详情页并识别主体：苏州润杰尔环保新材料有限公司（页面企业标题、企业自述经营介绍、结构化产品供应主体） | 厂家自身产品/经营信息与“水处理”匹配：水处理复合碳源 污水处理用 漳州复合碳源,八方资源网云集了众多的漳州复合碳源供应商,采购商,制造商。这是 水处理复合碳源 污水处理用 漳州复合碳源 的详细页面。复合碳源可以替代以往的单一碳源,比如醋酸钠,工业葡萄糖,乙醇等等投入到污水处理当中,提高污水处理速度与效果。复合碳源用于促进反硝化脱氮异养菌群快速繁殖,提高微生物净化能力、生化系统处理能力和抗冲击力。复合碳源的优势:1.低温快速作用:复合碳.. | 厂家生产/制造依据：苏州润杰尔环保新材料有限公司 会员 5 年 所在区域: 江苏苏州 经营性质: 外商独资企业 企业类型: 生产加工 注册地: 江苏 苏州 昆山市陆家镇丰夏路108号2号房5层 主营产品: 复合碳源,新型复合碳源,重金属捕捉剂厂家,PAC聚合氯化铝,阻垢剂厂家,纯碱 公司介绍 供应信息 联系方式 企业已认证 个人实名未认证",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "已读取并识别页面主体，未认证工商或信用",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "名称",
+            "url": "https://info.b2b168.com/s168-290112129.html",
+            "excerpt": "苏州润杰尔环保新材料有限公司 | 苏州润杰尔环保新材料有限公司 会员 5 年 所在区域: 江苏苏州 经营性质: 外商独资企业 企业类型: 生产加工 注册地: 江苏 苏州 昆山市陆家镇丰夏路108号2号房5层 主营产品: 复合碳源,新型复合碳源,重金属捕捉剂厂家,PAC聚合氯化铝,阻垢剂厂家,纯碱 公司介绍 供应信息 联系方式 企业已认证 个人实名未认证 | {\"@type\": \"Organization\", \"name\": \"苏州润杰尔环保新材料有限公司\", \"telephone\": \"13914914334\", \"url\": \"https://jsrjrhb.cn.b2b168.com/\", \"_product\": \"水处理复合碳源 污水处理用 漳州复合碳源\", \"_product_description\": \"水处理复合碳源 污水处理用 漳州复合碳源,八方资源网云集了众多的漳州复合碳源供应商，采购商，制造商。这是 水处理复合碳源 污水处理用 漳州复合碳源 的详细页面。复合碳源可以替代以往的单一碳源，比如醋酸钠，工业葡萄糖，乙醇等等投入到污水处理当中，提高污水处理速度与效果。复合碳源用于促进反硝化脱氮异养菌群快速繁殖，提高微生物净化能力、生化系统处理能力和抗冲击力。复合碳源的优势：1.低温快速作用：复合碳..\", \"_role\": \"manufacturer\"}",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家/供应商页面主体文本提取",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "主营产品",
+            "url": "https://info.b2b168.com/s168-290112129.html",
+            "excerpt": "水处理复合碳源 污水处理用 漳州复合碳源,八方资源网云集了众多的漳州复合碳源供应商,采购商,制造商。这是 水处理复合碳源 污水处理用 漳州复合碳源 的详细页面。复合碳源可以替代以往的单一碳源,比如醋酸钠,工业葡萄糖,乙醇等等投入到污水处理当中,提高污水处理速度与效果。复合碳源用于促进反硝化脱氮异养菌群快速繁殖,提高微生物净化能力、生化系统处理能力和抗冲击力。复合碳源的优势:1.低温快速作用:复合碳..",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家页面公开产品描述",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "经营范围",
+            "url": "https://info.b2b168.com/s168-290112129.html",
+            "excerpt": "复合碳源,新型复合碳源,重金属捕捉剂厂家,PAC聚合氯化铝,阻垢剂厂家,纯碱；水处理复合碳源 污水处理用 漳州复合碳源,八方资源网云集了众多的漳州复合碳源供应商,采购商,制造商。这是 水处理复合碳源 污水处理用 漳州复合碳源 的详细页面。复合碳源可以替代以往的单一碳源,比如醋酸钠,工业葡萄糖,乙醇等等投入到污水处理当中,提高污水处理速度与效果。复合碳源用于促进反硝化脱氮异养菌群快速繁殖,提高微生物净化能力、生化系统处理能力和抗冲击力。复合碳源的优势:1.低温快速作用:复合碳..",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "公开业务描述，未核实工商登记范围",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "地区地址",
+            "url": "https://info.b2b168.com/s168-290112129.html",
+            "excerpt": "苏州润杰尔环保新材料有限公司 喻建 电话:13914914334 手机:13914914334 地址: 江苏 苏州 昆山市陆家镇丰夏路108号2号房5层 网址:http://jsrjrhb.cn.b2b168.com/",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "页面公开地址，未实地核实",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "电话",
+            "url": "https://info.b2b168.com/s168-290112129.html",
+            "excerpt": "结构化供应主体 苏州润杰尔环保新材料有限公司；telephone=13914914334",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家公开联系方式，号码有效性待核实",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          }
+        ],
+        "negative_status": "未检查",
+        "score": 0,
+        "score_reasons": [],
+        "notes": "页面主体与产品相关性已按公开内容识别；未进行工商资质、信用或电话归属的外部认证。",
+        "updated_at": "2026-11-11T15:58:32+08:00",
+        "page_verified": true,
+        "verification_url": "https://info.b2b168.com/s168-290112129.html",
+        "products": [
+          "水处理复合碳源 污水处理用 漳州复合碳源",
+          "复合碳源",
+          "新型复合碳源",
+          "重金属捕捉剂",
+          "PAC聚合氯化铝",
+          "阻垢剂",
+          "纯碱"
+        ],
+        "business_scope": "复合碳源,新型复合碳源,重金属捕捉剂厂家,PAC聚合氯化铝,阻垢剂厂家,纯碱；水处理复合碳源 污水处理用 漳州复合碳源,八方资源网云集了众多的漳州复合碳源供应商,采购商,制造商。这是 水处理复合碳源 污水处理用 漳州复合碳源 的详细页面。复合碳源可以替代以往的单一碳源,比如醋酸钠,工业葡萄糖,乙醇等等投入到污水处理当中,提高污水处理速度与效果。复合碳源用于促进反硝化脱氮异养菌群快速繁殖,提高微生物净化能力、生化系统处理能力和抗冲击力。复合碳源的优势:1.低温快速作用:复合碳..",
+        "region": "江苏苏州",
+        "address": "江苏 苏州 昆山市陆家镇丰夏路108号2号房5层",
+        "admission_reasons": [
+          "已实际读取详情页并识别主体：苏州润杰尔环保新材料有限公司（页面企业标题、企业自述经营介绍、结构化产品供应主体）",
+          "厂家自身产品/经营信息与“水处理”匹配：水处理复合碳源 污水处理用 漳州复合碳源,八方资源网云集了众多的漳州复合碳源供应商,采购商,制造商。这是 水处理复合碳源 污水处理用 漳州复合碳源 的详细页面。复合碳源可以替代以往的单一碳源,比如醋酸钠,工业葡萄糖,乙醇等等投入到污水处理当中,提高污水处理速度与效果。复合碳源用于促进反硝化脱氮异养菌群快速繁殖,提高微生物净化能力、生化系统处理能力和抗冲击力。复合碳源的优势:1.低温快速作用:复合碳..",
+          "厂家生产/制造依据：苏州润杰尔环保新材料有限公司 会员 5 年 所在区域: 江苏苏州 经营性质: 外商独资企业 企业类型: 生产加工 注册地: 江苏 苏州 昆山市陆家镇丰夏路108号2号房5层 主营产品: 复合碳源,新型复合碳源,重金属捕捉剂厂家,PAC聚合氯化铝,阻垢剂厂家,纯碱 公司介绍 供应信息 联系方式 企业已认证 个人实名未认证"
+        ]
+      }
+    },
+    {
+      "source": "b2b168",
+      "title": "广东国际水处理展会刊-亲戚物流发展博览会会刊",
+      "url": "https://info.b2b168.com/s168-290744999.html",
+      "final_url": "https://info.b2b168.com/s168-290744999.html",
+      "reason": "已读取详情页，厂家主体、产品相关性及生产/供应关系均有页面依据",
+      "company": {
+        "id": "5a4f4139cbad4fcbb36b3d9657c57004",
+        "name": "广州时光展览有限公司",
+        "name_confirmed": true,
+        "phones": [
+          "0130-02028857",
+          "13002028857"
+        ],
+        "urls": [
+          "https://info.b2b168.com/s168-290744999.html"
+        ],
+        "hits": [
+          {
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "title": "广东国际水处理展会刊-亲戚物流发展博览会会刊",
+            "url": "https://info.b2b168.com/s168-290744999.html",
+            "snippet": "广东国际水处理展会刊-亲戚物流发展博览会会刊 中国纺织机械展会刊 面议 广州时光展览有限公司广东-广州",
+            "search_url": "https://www.b2b168.com/k-shuichuli/",
+            "ad_status": "未标识",
+            "fetched_at": "2026-11-11T15:58:25+08:00",
+            "source_url": "https://www.b2b168.com/k-shuichuli/",
+            "company_hint": "广州时光展览有限公司",
+            "source_excerpt": "广东国际水处理展会刊-亲戚物流发展博览会会刊 中国纺织机械展会刊 面议 广州时光展览有限公司广东-广州",
+            "lookup_query": "",
+            "discovery_source": ""
+          }
+        ],
+        "evidence": [
+          {
+            "kind": "收录",
+            "url": "https://info.b2b168.com/s168-290744999.html",
+            "excerpt": "广东国际水处理展会刊-亲戚物流发展博览会会刊 广东国际水处理展会刊-亲戚物流发展博览会会刊 中国纺织机械展会刊 面议 广州时光展览有限公司广东-广州",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "搜索发现来源，仅作追溯",
+            "fetched_at": "2026-11-11T15:58:25+08:00"
+          },
+          {
+            "kind": "详情页核验",
+            "url": "https://info.b2b168.com/s168-290744999.html",
+            "excerpt": "已实际读取详情页并识别主体：广州时光展览有限公司（页面企业标题、企业自述经营介绍） | 厂家自身产品/经营信息与“水处理”匹配：产品详细信息 广州时光展览有限公司 广东水处理展会刊-亲戚物流发展博览会会刊 如需购买参展商会刊联系李雪经理,我司提供全国各大展会会刊 巴塞罗那ITMA纺机展结束后,线下纺织机械展览会持续暂停。两年来,行业新经济、新业态、新模式伴随各类新的纺织服装消费需求大量涌现,使得纺机产业加速升级,快速响应并提出有针对性的解决方案。此时,各类新技术、新装备及各类解决方案亟需呈现给市场,并从中获取反馈;产业上下游积压已久的商贸诉求也亟需释放。 大展保持高水准现场签单喜讯接连不断 纺机联合展在全行业的共同期待下,以16万平方米的展 | 厂家生产/制造依据：光亚展展位申请,光亚展摊位申请,光亚展展位预定；  会员 12 年 所在区域: 广东广州海珠区 经营性质: 私有企业 企业类型: 商业服务 注册地: 广州 主营产品: 光亚展展位申请,光亚展摊位申请,光亚展展位预定 公司介绍 供应信息 联系方式 企业已认证 个人实名未认证；  广东水处理展会刊-亲戚物流发展博览会会刊 如需购买参展商会刊联系李雪经理,我司提供全国各大展会会刊 巴塞罗那ITMA纺机展结束后,线下纺织机械展览会持续暂停。两年来,行业新经济、新业态、新模式伴随各类新的纺织服装消费需求大量涌现,使得纺机产业",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "已读取并识别页面主体，未认证工商或信用",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "名称",
+            "url": "https://info.b2b168.com/s168-290744999.html",
+            "excerpt": "广州时光展览有限公司 | 广州时光展览有限公司 会员 12 年 所在区域: 广东广州海珠区 经营性质: 私有企业 企业类型: 商业服务 注册地: 广州 主营产品: 光亚展展位申请,光亚展摊位申请,光亚展展位预定 公司介绍 供应信息 联系方式 企业已认证 个人实名未认证",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家/供应商页面主体文本提取",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "主营产品",
+            "url": "https://info.b2b168.com/s168-290744999.html",
+            "excerpt": "产品详细信息 广州时光展览有限公司 广东水处理展会刊-亲戚物流发展博览会会刊 如需购买参展商会刊联系李雪经理,我司提供全国各大展会会刊 巴塞罗那ITMA纺机展结束后,线下纺织机械展览会持续暂停。两年来,行业新经济、新业态、新模式伴随各类新的纺织服装消费需求大量涌现,使得纺机产业加速升级,快速响应并提出有针对性的解决方案。此时,各类新技术、新装备及各类解决方案亟需呈现给市场,并从中获取反馈;产业上下游积压已久的商贸诉求也亟需释放。 大展保持高水准现场签单喜讯接连不断 纺机联合展在全行业的共同期待下,以16万平方米的展览面积,横跨国家会展中心(上海)6大展馆,来自20个国家和地区的共计1237家展商携新品精品共同亮相,65000人次专业观众纷至沓来,展会现场签单喜讯一波接着一波。 伴随着行业高质量发展的目标,“十四五”开局之年在新一轮的数字化浪潮中,纺机行业将重点围绕智能化、化、绿色化发展目标,大力发展具有兼容性适配性强、节能降耗、清洁生产、降本增效、持久耐用、易于维护、高耐磨性等特点的各类纺织设备产品,助力产业链竞争力的持续提升,进一步强化我国纺织产业地位。 大展保持高水准现场签单喜讯接",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家页面公开产品描述",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "经营范围",
+            "url": "https://info.b2b168.com/s168-290744999.html",
+            "excerpt": "光亚展展位申请,光亚展摊位申请,光亚展展位预定；广州时光展览有限公司 会员 12 年 所在区域: 广东广州海珠区 经营性质: 私有企业 企业类型: 商业服务 注册地: 广州 主营产品: 光亚展展位申请,光亚展摊位申请,光亚展展位预定 公司介绍 供应信息 联系方式 企业已认证 个人实名未认证；广州时光展览有限公司 广东水处理展会刊-亲戚物流发展博览会会刊 如需购买参展商会刊联系李雪经理,我司提供全国各大展会会刊 巴塞罗那ITMA纺机展结束后,线下纺织机械展览会持续暂停。两年来,行业新经济、新业态、新模式伴随各类新的纺织服装消费需求大量涌现,使得纺机产业加速升级,快速响应并提出有针对性的解决方案。此时,各类新技术、新装备及各类解决方案亟需呈现给市场,并从中获取反馈;产业上下游积压已久的商贸诉求也亟需释放。 大展保持高水准现场签单喜讯接连不断 纺机联合展在全行业的共同期待下,以16万平方米的展览面积,横跨国家会展中心(上海)6大展馆,来自20个国家和地区的共计1237家展商携新品精品共同亮相,65000人次专业观众纷至沓来,展会现场签单喜讯一波接着一波。 伴随着行业高质量发展的目标,“十四五”开局之年在新一轮的数字化浪潮中,纺机行业将重点围绕智能化、化、绿色化发展目标,大力发展具有兼容性适配性强、节能降耗、清洁生产、降本增效、持久耐用、易于维护、高耐磨性等特点的各类纺织设备产品,助力产业链竞争力的持续提升,进一步强化我国纺织产业地位。 大展保持高水准现场签单喜讯接连不断 纺机联合展在全行业的共同期待下,以16万平方米的展览面积,横跨国家会展中心(上海)6大展馆,来自20个国家和地区的共计1237家展商携新品精品共同亮相,65000人次专业观众纷至沓来,展会现场签单喜讯一波接着一波",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "公开业务描述，未核实工商登记范围",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "地区地址",
+            "url": "https://info.b2b168.com/s168-290744999.html",
+            "excerpt": "广州时光展览有限公司 李雪 (经理) 电话:013002028857 传真:02034076446 手机:13002028857 地址: 广东 广州 海珠区 广州大道中900号金穗大厦5楼525D14单位 网址:http://hdrenminbi2018.cn.b2b168.com/",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "页面公开地址，未实地核实",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "电话",
+            "url": "https://info.b2b168.com/s168-290744999.html",
+            "excerpt": "产品详细信息 广州时光展览有限公司 广东水处理展会刊-亲戚物流发展博览会会刊 如需购买参展商会刊联系李雪经理,我司提供全国各大展会会刊 巴塞罗那ITMA纺机展结束后,线下纺织机械展览会持续暂停。两年来,行业新经济、新业态、新模式伴随各类新的纺织服装消费需求大量涌现,使得纺机产业加速升级,快速响应并提出有针对性的解决方案。此时,各类新技术、新装备及各类解决方案亟需呈现给市场,并从中获取反馈;产业上下游积压已久的商贸诉求也亟需释放。 大展保持高水准现场签单喜讯接连不断 纺机联合展在全行业的共同期待下,以16万平方米的展览面积,横跨国家会展中心(上海)6大展馆,来自20个国家和地区的共计1237家展商携新品精品共同亮相,65000人次专业观众纷至沓来,展会现场签单喜讯一波接着一波。 伴随着行业高质量发展的目标,“十四五”开局之年在新一轮的数字化浪潮中,纺机行业将重点围绕智能化、化、绿色化发展目标,大力发展具有兼容性适配性强、节能降耗、清洁生产、降本增效、持久耐用、易于维护、高耐磨性等特点的各类纺织设备产品,助力产业链竞争力的持续提升,进一步强化我国纺织产业地位。 大展保持高水准现场签单喜讯接连不断 纺机联合展在全行业的共同期待下,以16万平方米的展览面积,横跨国家会展中心(上海)6大展馆,来自20个国家和地区的共计1237家展商携新品精品共同亮相,65000人次专业观众纷至沓来,展会现场签单喜讯一波接着一波。 商家联系方式 广州时光展览有限公司 李雪 (经理) 电话:013002028",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家公开联系方式，号码有效性待核实",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "电话",
+            "url": "https://info.b2b168.com/s168-290744999.html",
+            "excerpt": "产品详细信息 广州时光展览有限公司 广东水处理展会刊-亲戚物流发展博览会会刊 如需购买参展商会刊联系李雪经理,我司提供全国各大展会会刊 巴塞罗那ITMA纺机展结束后,线下纺织机械展览会持续暂停。两年来,行业新经济、新业态、新模式伴随各类新的纺织服装消费需求大量涌现,使得纺机产业加速升级,快速响应并提出有针对性的解决方案。此时,各类新技术、新装备及各类解决方案亟需呈现给市场,并从中获取反馈;产业上下游积压已久的商贸诉求也亟需释放。 大展保持高水准现场签单喜讯接连不断 纺机联合展在全行业的共同期待下,以16万平方米的展览面积,横跨国家会展中心(上海)6大展馆,来自20个国家和地区的共计1237家展商携新品精品共同亮相,65000人次专业观众纷至沓来,展会现场签单喜讯一波接着一波。 伴随着行业高质量发展的目标,“十四五”开局之年在新一轮的数字化浪潮中,纺机行业将重点围绕智能化、化、绿色化发展目标,大力发展具有兼容性适配性强、节能降耗、清洁生产、降本增效、持久耐用、易于维护、高耐磨性等特点的各类纺织设备产品,助力产业链竞争力的持续提升,进一步强化我国纺织产业地位。 大展保持高水准现场签单喜讯接连不断 纺机联合展在全行业的共同期待下,以16万平方米的展览面积,横跨国家会展中心(上海)6大展馆,来自20个国家和地区的共计1237家展商携新品精品共同亮相,65000人次专业观众纷至沓来,展会现场签单喜讯一波接着一波。 商家联系方式 广州时光展览有限公司 李雪 (经理) 电话:013002028",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家公开联系方式，号码有效性待核实",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          }
+        ],
+        "negative_status": "未检查",
+        "score": 0,
+        "score_reasons": [],
+        "notes": "页面主体与产品相关性已按公开内容识别；未进行工商资质、信用或电话归属的外部认证。",
+        "updated_at": "2026-11-11T15:58:32+08:00",
+        "page_verified": true,
+        "verification_url": "https://info.b2b168.com/s168-290744999.html",
+        "products": [
+          "光亚展展位申请",
+          "光亚展摊位申请",
+          "光亚展展位预定",
+          "线下纺织机械展览会持续暂停",
+          "各类纺织设备产品"
+        ],
+        "business_scope": "光亚展展位申请,光亚展摊位申请,光亚展展位预定；广州时光展览有限公司 会员 12 年 所在区域: 广东广州海珠区 经营性质: 私有企业 企业类型: 商业服务 注册地: 广州 主营产品: 光亚展展位申请,光亚展摊位申请,光亚展展位预定 公司介绍 供应信息 联系方式 企业已认证 个人实名未认证；广州时光展览有限公司 广东水处理展会刊-亲戚物流发展博览会会刊 如需购买参展商会刊联系李雪经理,我司提供全国各大展会会刊 巴塞罗那ITMA纺机展结束后,线下纺织机械展览会持续暂停。两年来,行业新经济、新业态、新模式伴随各类新的纺织服装消费需求大量涌现,使得纺机产业加速升级,快速响应并提出有针对性的解决方案。此时,各类新技术、新装备及各类解决方案亟需呈现给市场,并从中获取反馈;产业上下游积压已久的商贸诉求也亟需释放。 大展保持高水准现场签单喜讯接连不断 纺机联合展在全行业的共同期待下,以16万平方米的展览面积,横跨国家会展中心(上海)6大展馆,来自20个国家和地区的共计1237家展商携新品精品共同亮相,65000人次专业观众纷至沓来,展会现场签单喜讯一波接着一波。 伴随着行业高质量发展的目标,“十四五”开局之年在新一轮的数字化浪潮中,纺机行业将重点围绕智能化、化、绿色化发展目标,大力发展具有兼容性适配性强、节能降耗、清洁生产、降本增效、持久耐用、易于维护、高耐磨性等特点的各类纺织设备产品,助力产业链竞争力的持续提升,进一步强化我国纺织产业地位。 大展保持高水准现场签单喜讯接连不断 纺机联合展在全行业的共同期待下,以16万平方米的展览面积,横跨国家会展中心(上海)6大展馆,来自20个国家和地区的共计1237家展商携新品精品共同亮相,65000人次专业观众纷至沓来,展会现场签单喜讯一波接着一波",
+        "region": "广东广州海珠区",
+        "address": "广东 广州 海珠区 广州大道中900号金穗大厦5楼525D14单位",
+        "admission_reasons": [
+          "已实际读取详情页并识别主体：广州时光展览有限公司（页面企业标题、企业自述经营介绍）",
+          "厂家自身产品/经营信息与“水处理”匹配：产品详细信息 广州时光展览有限公司 广东水处理展会刊-亲戚物流发展博览会会刊 如需购买参展商会刊联系李雪经理,我司提供全国各大展会会刊 巴塞罗那ITMA纺机展结束后,线下纺织机械展览会持续暂停。两年来,行业新经济、新业态、新模式伴随各类新的纺织服装消费需求大量涌现,使得纺机产业加速升级,快速响应并提出有针对性的解决方案。此时,各类新技术、新装备及各类解决方案亟需呈现给市场,并从中获取反馈;产业上下游积压已久的商贸诉求也亟需释放。 大展保持高水准现场签单喜讯接连不断 纺机联合展在全行业的共同期待下,以16万平方米的展",
+          "厂家生产/制造依据：光亚展展位申请,光亚展摊位申请,光亚展展位预定；  会员 12 年 所在区域: 广东广州海珠区 经营性质: 私有企业 企业类型: 商业服务 注册地: 广州 主营产品: 光亚展展位申请,光亚展摊位申请,光亚展展位预定 公司介绍 供应信息 联系方式 企业已认证 个人实名未认证；  广东水处理展会刊-亲戚物流发展博览会会刊 如需购买参展商会刊联系李雪经理,我司提供全国各大展会会刊 巴塞罗那ITMA纺机展结束后,线下纺织机械展览会持续暂停。两年来,行业新经济、新业态、新模式伴随各类新的纺织服装消费需求大量涌现,使得纺机产业"
+        ]
+      }
+    },
+    {
+      "source": "b2b168",
+      "title": "别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建",
+      "url": "https://shanghui11083744.cn.b2b168.com/s298619840.html",
+      "final_url": "https://shanghui11083744.cn.b2b168.com/s298619840.html",
+      "reason": "已读取详情页，厂家主体、产品相关性及生产/供应关系均有页面依据",
+      "company": {
+        "id": "74877f88b4294832b1ac7447ebaff573",
+        "name": "东莞青马水环境工程有限公司",
+        "name_confirmed": true,
+        "phones": [
+          "13509822868"
+        ],
+        "urls": [
+          "https://shanghui11083744.cn.b2b168.com/s298619840.html"
+        ],
+        "hits": [
+          {
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "title": "别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建",
+            "url": "https://shanghui11083744.cn.b2b168.com/s298619840.html",
+            "snippet": "别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建 游泳池工程 1680.00元/套 东莞青马水环境工程有限公司广东-东莞",
+            "search_url": "https://www.b2b168.com/k-shuichuli/",
+            "ad_status": "未标识",
+            "fetched_at": "2026-11-11T15:58:25+08:00",
+            "source_url": "https://www.b2b168.com/k-shuichuli/",
+            "company_hint": "东莞青马水环境工程有限公司",
+            "source_excerpt": "别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建 游泳池工程 1680.00元/套 东莞青马水环境工程有限公司广东-东莞",
+            "lookup_query": "",
+            "discovery_source": ""
+          }
+        ],
+        "evidence": [
+          {
+            "kind": "收录",
+            "url": "https://shanghui11083744.cn.b2b168.com/s298619840.html",
+            "excerpt": "别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建 别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建 游泳池工程 1680.00元/套 东莞青马水环境工程有限公司广东-东莞",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "搜索发现来源，仅作追溯",
+            "fetched_at": "2026-11-11T15:58:25+08:00"
+          },
+          {
+            "kind": "详情页核验",
+            "url": "https://shanghui11083744.cn.b2b168.com/s298619840.html",
+            "excerpt": "已实际读取详情页并识别主体：东莞青马水环境工程有限公司（详情页标题全称、结构化产品供应主体） | 厂家自身产品/经营信息与“水处理”匹配：别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建, 怒江别墅泳池建设 游泳池水处理安装工程承建沙缸过滤原理: 沙缸里一般放置一定规模的石英沙,在一定范围内石英沙的大小规格不同,在沙缸里,石英沙从上到下、由小到大依此排列,正常过滤时,水是从砂的上层进入,由..。获取更多别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建相关供求信息,请查阅东莞青马水环境工程有限公司网站供应商机栏目 | 厂家生产/制造依据：结构化产品 manufacturer 明确指向 东莞青马水环境工程有限公司",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "已读取并识别页面主体，未认证工商或信用",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "名称",
+            "url": "https://shanghui11083744.cn.b2b168.com/s298619840.html",
+            "excerpt": "别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建_东莞青马水环境工程有限公司 - 八方资源网 | {\"@type\": \"Organization\", \"name\": \"东莞青马水环境工程有限公司\", \"telephone\": \"13509822868\", \"url\": \"https://shanghui11083744.cn.b2b168.com/\", \"_product\": \"别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建_东莞青马水环境工程有限公司\", \"_product_description\": \"别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建, 怒江别墅泳池建设 游泳池水处理安装工程承建沙缸过滤原理: 沙缸里一般放置一定规模的石英沙，在一定范围内石英沙的大小规格不同，在沙缸里，石英沙从上到下、由小到大依此排列，正常过滤时，水是从砂的上层进入，由..。获取更多别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建相关供求信息，请查阅东莞青马水环境工程有限公司网站供应商机栏目\", \"_role\": \"manufacturer\"}",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家/供应商页面主体文本提取",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "主营产品",
+            "url": "https://shanghui11083744.cn.b2b168.com/s298619840.html",
+            "excerpt": "别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建, 怒江别墅泳池建设 游泳池水处理安装工程承建沙缸过滤原理: 沙缸里一般放置一定规模的石英沙,在一定范围内石英沙的大小规格不同,在沙缸里,石英沙从上到下、由小到大依此排列,正常过滤时,水是从砂的上层进入,由..。获取更多别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建相关供求信息,请查阅东莞青马水环境工程有限公司网站供应商机栏目",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家页面公开产品描述",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "经营范围",
+            "url": "https://shanghui11083744.cn.b2b168.com/s298619840.html",
+            "excerpt": "别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建, 怒江别墅泳池建设 游泳池水处理安装工程承建沙缸过滤原理: 沙缸里一般放置一定规模的石英沙,在一定范围内石英沙的大小规格不同,在沙缸里,石英沙从上到下、由小到大依此排列,正常过滤时,水是从砂的上层进入,由..。获取更多别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建相关供求信息,请查阅东莞青马水环境工程有限公司网站供应商机栏目",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "公开业务描述，未核实工商登记范围",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "地区地址",
+            "url": "https://shanghui11083744.cn.b2b168.com/s298619840.html",
+            "excerpt": "发货地址: 广东省东莞市",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "页面公开地址，未实地核实",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "电话",
+            "url": "https://shanghui11083744.cn.b2b168.com/s298619840.html",
+            "excerpt": "结构化供应主体 东莞青马水环境工程有限公司；telephone=13509822868",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家公开联系方式，号码有效性待核实",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          }
+        ],
+        "negative_status": "未检查",
+        "score": 0,
+        "score_reasons": [],
+        "notes": "页面主体与产品相关性已按公开内容识别；未进行工商资质、信用或电话归属的外部认证。",
+        "updated_at": "2026-11-11T15:58:32+08:00",
+        "page_verified": true,
+        "verification_url": "https://shanghui11083744.cn.b2b168.com/s298619840.html",
+        "products": [
+          "别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建",
+          "水处理系统"
+        ],
+        "business_scope": "别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建, 怒江别墅泳池建设 游泳池水处理安装工程承建沙缸过滤原理: 沙缸里一般放置一定规模的石英沙,在一定范围内石英沙的大小规格不同,在沙缸里,石英沙从上到下、由小到大依此排列,正常过滤时,水是从砂的上层进入,由..。获取更多别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建相关供求信息,请查阅东莞青马水环境工程有限公司网站供应商机栏目",
+        "region": "广东省东莞市",
+        "address": "广东省东莞市",
+        "admission_reasons": [
+          "已实际读取详情页并识别主体：东莞青马水环境工程有限公司（详情页标题全称、结构化产品供应主体）",
+          "厂家自身产品/经营信息与“水处理”匹配：别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建, 怒江别墅泳池建设 游泳池水处理安装工程承建沙缸过滤原理: 沙缸里一般放置一定规模的石英沙,在一定范围内石英沙的大小规格不同,在沙缸里,石英沙从上到下、由小到大依此排列,正常过滤时,水是从砂的上层进入,由..。获取更多别墅恒温游泳池水处理系统设计施工 泳池水处理安装工程承建相关供求信息,请查阅东莞青马水环境工程有限公司网站供应商机栏目",
+          "厂家生产/制造依据：结构化产品 manufacturer 明确指向 东莞青马水环境工程有限公司"
+        ]
+      }
+    },
+    {
+      "source": "b2b168",
+      "title": "水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品",
+      "url": "https://info.b2b168.com/s168-292614665.html",
+      "final_url": "https://info.b2b168.com/s168-292614665.html",
+      "reason": "已读取详情页，厂家主体、产品相关性及生产/供应关系均有页面依据",
+      "company": {
+        "id": "ef82542c31af402984a35dc92ece84b6",
+        "name": "东莞晋诚水处理科技有限公司",
+        "name_confirmed": true,
+        "phones": [
+          "13712343148"
+        ],
+        "urls": [
+          "https://info.b2b168.com/s168-292614665.html"
+        ],
+        "hits": [
+          {
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "title": "水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品",
+            "url": "https://info.b2b168.com/s168-292614665.html",
+            "snippet": "水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品 反渗透絮凝剂厂家 180.00元/桶 东莞晋诚水处理科技有限公司广东-东莞",
+            "search_url": "https://www.b2b168.com/k-shuichuli/",
+            "ad_status": "未标识",
+            "fetched_at": "2026-11-11T15:58:25+08:00",
+            "source_url": "https://www.b2b168.com/k-shuichuli/",
+            "company_hint": "东莞晋诚水处理科技有限公司",
+            "source_excerpt": "水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品 反渗透絮凝剂厂家 180.00元/桶 东莞晋诚水处理科技有限公司广东-东莞",
+            "lookup_query": "",
+            "discovery_source": ""
+          }
+        ],
+        "evidence": [
+          {
+            "kind": "收录",
+            "url": "https://info.b2b168.com/s168-292614665.html",
+            "excerpt": "水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品 水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品 反渗透絮凝剂厂家 180.00元/桶 东莞晋诚水处理科技有限公司广东-东莞",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "搜索发现来源，仅作追溯",
+            "fetched_at": "2026-11-11T15:58:25+08:00"
+          },
+          {
+            "kind": "详情页核验",
+            "url": "https://info.b2b168.com/s168-292614665.html",
+            "excerpt": "已实际读取详情页并识别主体：东莞晋诚水处理科技有限公司（页面企业标题、企业自述经营介绍、结构化产品供应主体） | 厂家自身产品/经营信息与“水处理”匹配：东莞晋诚水处理科技有限公司 所在区域: 广东东莞樟木头 经营性质: 企业类型: 注册地: 主营产品: 反渗透阻垢剂,膜清洗剂,锅炉除垢剂 注册资金: 供应信息 公司介绍 企业已认证 个人实名未认证 | 厂家生产/制造依据：反渗透阻垢剂,膜清洗剂,锅炉除垢剂；  所在区域: 广东东莞樟木头 经营性质: 企业类型: 注册地: 主营产品: 反渗透阻垢剂,膜清洗剂,锅炉除垢剂 注册资金: 供应信息 公司介绍 企业已认证 个人实名未认证；水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品,八方资源网云集了众多的反渗透絮凝剂厂家,絮凝剂的用途与作用,絮凝剂的主要成分,絮凝剂价格,絮凝剂的密度供应商,采购商,制造商。这是 水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品 的详细页面。产品性能JC-219絮凝剂是一种中低分子量的液态阳离子高分子絮",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "已读取并识别页面主体，未认证工商或信用",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "名称",
+            "url": "https://info.b2b168.com/s168-292614665.html",
+            "excerpt": "东莞晋诚水处理科技有限公司 | 东莞晋诚水处理科技有限公司 所在区域: 广东东莞樟木头 经营性质: 企业类型: 注册地: 主营产品: 反渗透阻垢剂,膜清洗剂,锅炉除垢剂 注册资金: 供应信息 公司介绍 企业已认证 个人实名未认证 | {\"@type\": \"Organization\", \"name\": \"东莞晋诚水处理科技有限公司\", \"telephone\": \"13712343148\", \"url\": \"https://jc20230307.b2b168.com/\", \"_product\": \"水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品\", \"_product_description\": \"水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品,八方资源网云集了众多的反渗透絮凝剂厂家,絮凝剂的用途与作用,絮凝剂的主要成分,絮凝剂价格,絮凝剂的密度供应商，采购商，制造商。这是 水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品 的详细页面。产品性能JC-219絮凝剂是一种中低分子量的液态阳离子高分子絮凝剂，可以单独使用，也可以和无机絮凝剂配合使用。JC-219投加在多介质过滤器-之前，对于降低反渗透进水的SD1值有着良好的作用，特别是对于物含量高的地表水，效果良好。可替代纳你尔科8103 PluS絮..\", \"_role\": \"manufacturer\"}",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家/供应商页面主体文本提取",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "主营产品",
+            "url": "https://info.b2b168.com/s168-292614665.html",
+            "excerpt": "东莞晋诚水处理科技有限公司 所在区域: 广东东莞樟木头 经营性质: 企业类型: 注册地: 主营产品: 反渗透阻垢剂,膜清洗剂,锅炉除垢剂 注册资金: 供应信息 公司介绍 企业已认证 个人实名未认证",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家页面公开产品描述",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "经营范围",
+            "url": "https://info.b2b168.com/s168-292614665.html",
+            "excerpt": "反渗透阻垢剂,膜清洗剂,锅炉除垢剂；东莞晋诚水处理科技有限公司 所在区域: 广东东莞樟木头 经营性质: 企业类型: 注册地: 主营产品: 反渗透阻垢剂,膜清洗剂,锅炉除垢剂 注册资金: 供应信息 公司介绍 企业已认证 个人实名未认证；水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品,八方资源网云集了众多的反渗透絮凝剂厂家,絮凝剂的用途与作用,絮凝剂的主要成分,絮凝剂价格,絮凝剂的密度供应商,采购商,制造商。这是 水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品 的详细页面。产品性能JC-219絮凝剂是一种中低分子量的液态阳离子高分子絮凝剂,可以单独使用,也可以和无机絮凝剂配合使用。JC-219投加在多介质过滤器-之前,对于降低反渗透进水的SD1值有着良好的作用,特别是对于物含量高的地表水,效果良好。可替代纳你尔科8103 PluS絮..",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "公开业务描述，未核实工商登记范围",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "地区地址",
+            "url": "https://info.b2b168.com/s168-292614665.html",
+            "excerpt": "东莞晋诚水处理科技有限公司 刘先生 (经理) 电话:13712343148 手机:13712343148 地址: 广东 东莞 樟木头 樟洋路23号 网址:http://jc20230307.b2b168.com/",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "页面公开地址，未实地核实",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "电话",
+            "url": "https://info.b2b168.com/s168-292614665.html",
+            "excerpt": "结构化供应主体 东莞晋诚水处理科技有限公司；telephone=13712343148",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家公开联系方式，号码有效性待核实",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          }
+        ],
+        "negative_status": "未检查",
+        "score": 0,
+        "score_reasons": [],
+        "notes": "页面主体与产品相关性已按公开内容识别；未进行工商资质、信用或电话归属的外部认证。",
+        "updated_at": "2026-11-11T15:58:32+08:00",
+        "page_verified": true,
+        "verification_url": "https://info.b2b168.com/s168-292614665.html",
+        "products": [
+          "水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品",
+          "反渗透阻垢剂",
+          "膜清洗剂",
+          "锅炉除垢剂",
+          "反渗透絮凝剂",
+          "絮凝剂的用途与作用",
+          "絮凝剂的主要成分",
+          "絮凝剂价格",
+          "絮凝剂的密度供应商",
+          "这是 水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品 的详细页面",
+          "液态阳离子高分子絮凝剂",
+          "也可以和无机絮凝剂配合使用",
+          "JC-219投加在多介质过滤器-之前",
+          "水处理药剂"
+        ],
+        "business_scope": "反渗透阻垢剂,膜清洗剂,锅炉除垢剂；东莞晋诚水处理科技有限公司 所在区域: 广东东莞樟木头 经营性质: 企业类型: 注册地: 主营产品: 反渗透阻垢剂,膜清洗剂,锅炉除垢剂 注册资金: 供应信息 公司介绍 企业已认证 个人实名未认证；水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品,八方资源网云集了众多的反渗透絮凝剂厂家,絮凝剂的用途与作用,絮凝剂的主要成分,絮凝剂价格,絮凝剂的密度供应商,采购商,制造商。这是 水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品 的详细页面。产品性能JC-219絮凝剂是一种中低分子量的液态阳离子高分子絮凝剂,可以单独使用,也可以和无机絮凝剂配合使用。JC-219投加在多介质过滤器-之前,对于降低反渗透进水的SD1值有着良好的作用,特别是对于物含量高的地表水,效果良好。可替代纳你尔科8103 PluS絮..",
+        "region": "广东东莞樟木头",
+        "address": "广东 东莞 樟木头 樟洋路23号",
+        "admission_reasons": [
+          "已实际读取详情页并识别主体：东莞晋诚水处理科技有限公司（页面企业标题、企业自述经营介绍、结构化产品供应主体）",
+          "厂家自身产品/经营信息与“水处理”匹配：东莞晋诚水处理科技有限公司 所在区域: 广东东莞樟木头 经营性质: 企业类型: 注册地: 主营产品: 反渗透阻垢剂,膜清洗剂,锅炉除垢剂 注册资金: 供应信息 公司介绍 企业已认证 个人实名未认证",
+          "厂家生产/制造依据：反渗透阻垢剂,膜清洗剂,锅炉除垢剂；  所在区域: 广东东莞樟木头 经营性质: 企业类型: 注册地: 主营产品: 反渗透阻垢剂,膜清洗剂,锅炉除垢剂 注册资金: 供应信息 公司介绍 企业已认证 个人实名未认证；水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品,八方资源网云集了众多的反渗透絮凝剂厂家,絮凝剂的用途与作用,絮凝剂的主要成分,絮凝剂价格,絮凝剂的密度供应商,采购商,制造商。这是 水处理药剂反渗透絮凝剂JC-219晋诚水处理化学品 的详细页面。产品性能JC-219絮凝剂是一种中低分子量的液态阳离子高分子絮"
+        ]
+      }
+    },
+    {
+      "source": "b2b168",
+      "title": "东莞晋诚水处理科技有限公司",
+      "url": "https://www.b2b168.com/c168-23135932.html",
+      "final_url": "https://www.b2b168.com/c168-23135932.html",
+      "reason": "页面只证明供应、经销或维修服务，缺少此主体自身生产/制造依据，未作为厂家入库",
+      "company": null
+    },
+    {
+      "source": "b2b168",
+      "title": "自动定压排气机组生产厂家 石家庄博谊水处理厂",
+      "url": "https://info.b2b168.com/s168-292488140.html",
+      "final_url": "https://info.b2b168.com/s168-292488140.html",
+      "reason": "同页存在多个供应商主体，属于列表或归属不明确，需要进入单一厂家详情",
+      "company": null
+    },
+    {
+      "source": "b2b168",
+      "title": "石家庄博谊冷热水全程水处理仪图片",
+      "url": "https://info.b2b168.com/s168-292861262.html",
+      "final_url": "https://info.b2b168.com/s168-292861262.html",
+      "reason": "已读取详情页，厂家主体、产品相关性及生产/供应关系均有页面依据",
+      "company": {
+        "id": "efae5c5c37df411e88a635891b17f700",
+        "name": "石家庄博谊环保设备有限公司",
+        "name_confirmed": true,
+        "phones": [
+          "18630102861",
+          "0311-82236170"
+        ],
+        "urls": [
+          "https://info.b2b168.com/s168-292861262.html"
+        ],
+        "hits": [
+          {
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "title": "石家庄博谊冷热水全程水处理仪图片",
+            "url": "https://info.b2b168.com/s168-292861262.html",
+            "snippet": "石家庄博谊冷热水全程水处理仪图片 全程水处理仪图片 面议 石家庄博谊环保设备有限公司河北-石家庄",
+            "search_url": "https://www.b2b168.com/k-shuichuli/",
+            "ad_status": "未标识",
+            "fetched_at": "2026-11-11T15:58:25+08:00",
+            "source_url": "https://www.b2b168.com/k-shuichuli/",
+            "company_hint": "石家庄博谊环保设备有限公司",
+            "source_excerpt": "石家庄博谊冷热水全程水处理仪图片 全程水处理仪图片 面议 石家庄博谊环保设备有限公司河北-石家庄",
+            "lookup_query": "",
+            "discovery_source": ""
+          }
+        ],
+        "evidence": [
+          {
+            "kind": "收录",
+            "url": "https://info.b2b168.com/s168-292861262.html",
+            "excerpt": "石家庄博谊冷热水全程水处理仪图片 石家庄博谊冷热水全程水处理仪图片 全程水处理仪图片 面议 石家庄博谊环保设备有限公司河北-石家庄",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "搜索发现来源，仅作追溯",
+            "fetched_at": "2026-11-11T15:58:25+08:00"
+          },
+          {
+            "kind": "详情页核验",
+            "url": "https://info.b2b168.com/s168-292861262.html",
+            "excerpt": "已实际读取详情页并识别主体：石家庄博谊环保设备有限公司（页面企业标题、企业自述经营介绍、结构化产品供应主体） | 厂家自身产品/经营信息与“水处理”匹配：您当前的位置: 首页 > 供应信息 > 机床 > 机械设备 > 过滤设备 > 石家庄博谊冷热水全程水处理仪图片 石家庄博谊冷热水全程水处理仪图片 13年 所属行业: 机床 机械设备 过滤设备 发货地址:河北石家庄鹿泉区 信息编号:292861262 产品单价:面议 企业商铺 留言咨询 联系方式 在线询价 石家庄博谊环保设备有限公司 所在区域: 河北石家庄鹿泉区 经营性质: 有限责任公司 企业类型: 生产加工 注册地: 4.河北省石家庄市鹿泉区铜冶镇北铜冶村北 主营产品: 分集水器,隔膜式气压罐,定压补水装置 注册资 | 厂家生产/制造依据：您当前的位置: 首页 > 供应信息 > 机床 > 机械设备 > 过滤设备 > 石家庄博谊冷热水全程水处理仪图片 石家庄博谊冷热水全程水处理仪图片 13年 所属行业: 机床 机械设备 过滤设备 发货地址:河北石家庄鹿泉区 信息编号:292861262 产品单价:面议 企业商铺 留言咨询 联系方式 在线询价 石家庄博谊环保设备有限公司 所在区域: 河北石家庄鹿泉区 经营性质: 有限责任公司 企业类型: 生产加工 注册地: 4.河北省石家庄市鹿泉区铜冶镇北铜冶村北 主营产品: 分集水器,隔膜式气压罐,定压补水装置 注册资",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "已读取并识别页面主体，未认证工商或信用",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "名称",
+            "url": "https://info.b2b168.com/s168-292861262.html",
+            "excerpt": "石家庄博谊环保设备有限公司 | 您当前的位置: 首页 > 供应信息 > 机床 > 机械设备 > 过滤设备 > 石家庄博谊冷热水全程水处理仪图片 石家庄博谊冷热水全程水处理仪图片 13年 所属行业: 机床 机械设备 过滤设备 发货地址:河北石家庄鹿泉区 信息编号:292861262 产品单价:面议 企业商铺 留言咨询 联系方式 在线询价 石家庄博谊环保设备有限公司 所在区域: 河北石家庄鹿泉区 经营性质: 有限责任公司 企业类型: 生产加工 注册地: 4.河北省石家庄市鹿泉区铜冶镇北铜冶村北 主营产品: 分集水器,隔膜式气压罐,定压补水装置 注册资金: 人民币 500 - 1000 万元 供应信息 公司介绍 企业已认证 个人实名已认证 商家相关产品推荐: 全程水处理仪选型 商家产品分类 中央空调机房设备 换热站机房设备 水源地源热泵机房设备 锅炉机房设备 供水机房设备 “石家庄博谊冷热水全程水处理仪图片”详细信息 产品规格: DN300 产品数量: 200.00 台 包装说明: 气泡膜 价格说明: 不限 查看人数: 107 人 本页链接: https://info.b2b168.com/s168-292861262.html 公司编号: 13516319 更新时间: 2026-08-29 10:25:37 : 博谊 石家庄博谊环保设备有限公司 石家庄博谊冷热水全程水处理仪图片 欢迎来到石家庄博谊环保设备有限公司网站 | 石家庄博谊环保设备有限公司 所在区域: 河北石家庄鹿泉区 经营性质: 有限责任公司 企业类型: 生产加工 注册地: 4.河北省石家庄市鹿泉区铜冶镇北铜冶村北 主营产品: 分集水器,隔膜式气压罐,定压补水装置 注册资金: 人民币 500 - 1000 万元 供应信息 公司介绍 企业已认证 个人实名已认证 | {\"@type\": \"Organization\", \"name\": \"石家庄博谊环保设备有限公司\", \"telephone\": \"18630102861\", \"url\": \"https://ak47ddd.cn.b2b168.com/\", \"_product\": \"石家庄博谊冷热水全程水处理仪图片\", \"_product_description\": \"石家庄博谊冷热水全程水处理仪图片,八方资源网云集了众多的全程水处理仪图片,石家庄全程水处理仪,全程水",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家/供应商页面主体文本提取",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "主营产品",
+            "url": "https://info.b2b168.com/s168-292861262.html",
+            "excerpt": "您当前的位置: 首页 > 供应信息 > 机床 > 机械设备 > 过滤设备 > 石家庄博谊冷热水全程水处理仪图片 石家庄博谊冷热水全程水处理仪图片 13年 所属行业: 机床 机械设备 过滤设备 发货地址:河北石家庄鹿泉区 信息编号:292861262 产品单价:面议 企业商铺 留言咨询 联系方式 在线询价 石家庄博谊环保设备有限公司 所在区域: 河北石家庄鹿泉区 经营性质: 有限责任公司 企业类型: 生产加工 注册地: 4.河北省石家庄市鹿泉区铜冶镇北铜冶村北 主营产品: 分集水器,隔膜式气压罐,定压补水装置 注册资金: 人民币 500 - 1000 万元 供应信息 公司介绍 企业已认证 个人实名已认证 商家相关产品推荐: 全程水处理仪选型 商家产品分类 中央空调机房设备 换热站机房设备 水源地源热泵机房设备 锅炉机房设备 供水机房设备 “石家庄博谊冷热水全程水处理仪图片”详细信息 产品规格: DN300 产品数量: 200.00 台 包装说明: 气泡膜 价格说明: 不限 查看人数: 107 人 本页链接: https://info.b2b168.com/s168-292861262.h",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家页面公开产品描述",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "经营范围",
+            "url": "https://info.b2b168.com/s168-292861262.html",
+            "excerpt": "分集水器,隔膜式气压罐,定压补水装置；石家庄博谊环保设备有限公司 所在区域: 河北石家庄鹿泉区 经营性质: 有限责任公司 企业类型: 生产加工 注册地: 4.河北省石家庄市鹿泉区铜冶镇北铜冶村北 主营产品: 分集水器,隔膜式气压罐,定压补水装置 注册资金: 人民币 500 - 1000 万元 供应信息 公司介绍 企业已认证 个人实名已认证；产品规格: DN300 产品数量: 200.00 台 包装说明: 气泡膜 价格说明: 不限 查看人数: 107 人 本页链接: https://info.b2b168.com/s168-292861262.html 公司编号: 13516319 更新时间: 2026-08-29 10:25:37 : 博谊 石家庄博谊环保设备有限公司 石家庄博谊冷热水全程水处理仪图片 欢迎来到石家庄博谊环保设备有限公司网站,我公司位于被誉为“火车拉来的城市”,距首都北京最近,交通发达的石家庄市。 具体地址是 河北 石家庄 鹿泉区 河北省石家庄市鹿泉区铜冶镇北铜冶村北,负责人是初亚军。 主要经营空调设备、水处理设备、供水设备、换热器设备、空气净化设备、中水及污水处理设备的生产、销售及技术咨询服务;化工设备、压力容器的销售。。 单位注册资金单位注册资金人民币 500 - 1000 万元；石家庄博谊冷热水全程水处理仪图片,八方资源网云集了众多的全程水处理仪图片,石家庄全程水处理仪,全程水处理仪选型,全程水处理仪价格,全程水处理仪生产厂家供应商,采购商,制造商。这是 石家庄博谊冷热水全程水处理仪图片 的详细页面。石家庄博谊冷热水全程水处理仪图片",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "公开业务描述，未核实工商登记范围",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "地区地址",
+            "url": "https://info.b2b168.com/s168-292861262.html",
+            "excerpt": "石家庄博谊环保设备有限公司 付雪飞 (经理) 电话:0311-82236170 传真:0311-82236169 手机:18630102861 地址: 河北 石家庄 鹿泉区 河北省石家庄市鹿泉区铜冶镇北铜冶村北 网址:http://ak47ddd.cn.b2b168.com/",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "页面公开地址，未实地核实",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "电话",
+            "url": "https://info.b2b168.com/s168-292861262.html",
+            "excerpt": "结构化供应主体 石家庄博谊环保设备有限公司；telephone=18630102861",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家公开联系方式，号码有效性待核实",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          },
+          {
+            "kind": "电话",
+            "url": "https://info.b2b168.com/s168-292861262.html",
+            "excerpt": "您当前的位置: 首页 > 供应信息 > 机床 > 机械设备 > 过滤设备 > 石家庄博谊冷热水全程水处理仪图片 石家庄博谊冷热水全程水处理仪图片 13年 所属行业: 机床 机械设备 过滤设备 发货地址:河北石家庄鹿泉区 信息编号:292861262 产品单价:面议 企业商铺 留言咨询 联系方式 在线询价 石家庄博谊环保设备有限公司 所在区域: 河北石家庄鹿泉区 经营性质: 有限责任公司 企业类型: 生产加工 注册地: 4.河北省石家庄市鹿泉区铜冶镇北铜冶村北 主营产品: 分集水器,隔膜式气压罐,定压补水装置 注册资金: 人民币 500 - 1000 万元 供应信息 公司介绍 企业已认证 个人实名已认证 商家相关产品推荐: 全程水处理仪选型 商家产品分类 中央空调机房设备 换热站机房设备 水源地源热泵机房设备 锅炉机房设备 供水机房设备 “石家庄博谊冷热水全程水处理仪图片”详细信息 产品规格: DN300 产品数量: 200.00 台 包装说明: 气泡膜 价格说明: 不限 查看人数: 107 人 本页链接: https://info.b2b168.com/s168-292861262.html 公司编号: 13516319 更新时间: 2026-08-29 10:25:37 : 博谊 石家庄博谊环保设备有限公司 石家庄博谊冷热水全程水处理仪图片 欢迎来到石家庄博谊环保设备有限公司网站,我公司位于被誉为“火车拉来的城市”,距首都北京最近,交通发达的石家庄市。 具体地址是 河北 石家庄",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家公开联系方式，号码有效性待核实",
+            "fetched_at": "2026-11-11T15:58:32+08:00"
+          }
+        ],
+        "negative_status": "未检查",
+        "score": 0,
+        "score_reasons": [],
+        "notes": "页面主体与产品相关性已按公开内容识别；未进行工商资质、信用或电话归属的外部认证。",
+        "updated_at": "2026-11-11T15:58:32+08:00",
+        "page_verified": true,
+        "verification_url": "https://info.b2b168.com/s168-292861262.html",
+        "products": [
+          "石家庄博谊冷热水全程水处理仪图片",
+          "分集水器",
+          "隔膜式气压罐",
+          "定压补水装置",
+          "主要经营空调设备",
+          "水处理设备",
+          "供水设备",
+          "换热器设备",
+          "空气净化设备",
+          "化工设备",
+          "压力容器的销售",
+          "污水处理设备"
+        ],
+        "business_scope": "分集水器,隔膜式气压罐,定压补水装置；石家庄博谊环保设备有限公司 所在区域: 河北石家庄鹿泉区 经营性质: 有限责任公司 企业类型: 生产加工 注册地: 4.河北省石家庄市鹿泉区铜冶镇北铜冶村北 主营产品: 分集水器,隔膜式气压罐,定压补水装置 注册资金: 人民币 500 - 1000 万元 供应信息 公司介绍 企业已认证 个人实名已认证；产品规格: DN300 产品数量: 200.00 台 包装说明: 气泡膜 价格说明: 不限 查看人数: 107 人 本页链接: https://info.b2b168.com/s168-292861262.html 公司编号: 13516319 更新时间: 2026-08-29 10:25:37 : 博谊 石家庄博谊环保设备有限公司 石家庄博谊冷热水全程水处理仪图片 欢迎来到石家庄博谊环保设备有限公司网站,我公司位于被誉为“火车拉来的城市”,距首都北京最近,交通发达的石家庄市。 具体地址是 河北 石家庄 鹿泉区 河北省石家庄市鹿泉区铜冶镇北铜冶村北,负责人是初亚军。 主要经营空调设备、水处理设备、供水设备、换热器设备、空气净化设备、中水及污水处理设备的生产、销售及技术咨询服务;化工设备、压力容器的销售。。 单位注册资金单位注册资金人民币 500 - 1000 万元；石家庄博谊冷热水全程水处理仪图片,八方资源网云集了众多的全程水处理仪图片,石家庄全程水处理仪,全程水处理仪选型,全程水处理仪价格,全程水处理仪生产厂家供应商,采购商,制造商。这是 石家庄博谊冷热水全程水处理仪图片 的详细页面。石家庄博谊冷热水全程水处理仪图片",
+        "region": "河北石家庄鹿泉区",
+        "address": "河北 石家庄 鹿泉区 河北省石家庄市鹿泉区铜冶镇北铜冶村北",
+        "admission_reasons": [
+          "已实际读取详情页并识别主体：石家庄博谊环保设备有限公司（页面企业标题、企业自述经营介绍、结构化产品供应主体）",
+          "厂家自身产品/经营信息与“水处理”匹配：您当前的位置: 首页 > 供应信息 > 机床 > 机械设备 > 过滤设备 > 石家庄博谊冷热水全程水处理仪图片 石家庄博谊冷热水全程水处理仪图片 13年 所属行业: 机床 机械设备 过滤设备 发货地址:河北石家庄鹿泉区 信息编号:292861262 产品单价:面议 企业商铺 留言咨询 联系方式 在线询价 石家庄博谊环保设备有限公司 所在区域: 河北石家庄鹿泉区 经营性质: 有限责任公司 企业类型: 生产加工 注册地: 4.河北省石家庄市鹿泉区铜冶镇北铜冶村北 主营产品: 分集水器,隔膜式气压罐,定压补水装置 注册资",
+          "厂家生产/制造依据：您当前的位置: 首页 > 供应信息 > 机床 > 机械设备 > 过滤设备 > 石家庄博谊冷热水全程水处理仪图片 石家庄博谊冷热水全程水处理仪图片 13年 所属行业: 机床 机械设备 过滤设备 发货地址:河北石家庄鹿泉区 信息编号:292861262 产品单价:面议 企业商铺 留言咨询 联系方式 在线询价 石家庄博谊环保设备有限公司 所在区域: 河北石家庄鹿泉区 经营性质: 有限责任公司 企业类型: 生产加工 注册地: 4.河北省石家庄市鹿泉区铜冶镇北铜冶村北 主营产品: 分集水器,隔膜式气压罐,定压补水装置 注册资"
+        ]
+      }
+    },
+    {
+      "source": "b2b168",
+      "title": "多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加",
+      "url": "https://info.b2b168.com/s168-296361231.html",
+      "final_url": "https://info.b2b168.com/s168-296361231.html",
+      "reason": "已读取详情页，厂家主体、产品相关性及生产/供应关系均有页面依据",
+      "company": {
+        "id": "0f2312b73ac64ba9a152a2764d521077",
+        "name": "灵寿县京鹏矿产品加工厂",
+        "name_confirmed": true,
+        "phones": [
+          "15932499898"
+        ],
+        "urls": [
+          "https://info.b2b168.com/s168-296361231.html"
+        ],
+        "hits": [
+          {
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "title": "多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加",
+            "url": "https://info.b2b168.com/s168-296361231.html",
+            "snippet": "多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加 麦饭石粉 280.00元/吨 灵寿县京鹏矿产品加工厂河北-石家庄",
+            "search_url": "https://www.b2b168.com/k-shuichuli/",
+            "ad_status": "未标识",
+            "fetched_at": "2026-11-11T15:58:25+08:00",
+            "source_url": "https://www.b2b168.com/k-shuichuli/",
+            "company_hint": "灵寿县京鹏矿产品加工厂",
+            "source_excerpt": "多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加 麦饭石粉 280.00元/吨 灵寿县京鹏矿产品加工厂河北-石家庄",
+            "lookup_query": "",
+            "discovery_source": ""
+          }
+        ],
+        "evidence": [
+          {
+            "kind": "收录",
+            "url": "https://info.b2b168.com/s168-296361231.html",
+            "excerpt": "多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加 多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加 麦饭石粉 280.00元/吨 灵寿县京鹏矿产品加工厂河北-石家庄",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "搜索发现来源，仅作追溯",
+            "fetched_at": "2026-11-11T15:58:25+08:00"
+          },
+          {
+            "kind": "详情页核验",
+            "url": "https://info.b2b168.com/s168-296361231.html",
+            "excerpt": "已实际读取详情页并识别主体：灵寿县京鹏矿产品加工厂（页面企业标题、企业自述经营介绍、结构化产品供应主体） | 厂家自身产品/经营信息与“水处理”匹配：多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加,八方资源网云集了众多的麦饭石粉,麦饭石颗粒,净化水质麦饭石供应商,采购商,制造商。这是 多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加 的详细页面。麦饭石是一种硅酸盐矿物,学名:石英二长岩。 麦饭石的主要化学成分是无机的硅铝酸盐。其中包括SiO2、Al2O3、Fe2O3、FeO、MgO、CaO、K2O、Na2O、TiO2、P2O5、MnO等,还含有动物所需的全部常量元素,如:K、Na、Ca、Mg、Cu、Mo等微量元素和稀土元素,约58种之.. | 厂家生产/制造依据：灵寿县京鹏矿产品加工厂 所在区域: 河北石家庄新华区 经营性质: 个体经营 企业类型: 生产加工 注册地: 灵寿县慈裕镇西伍河村 主营产品: 电气石,托玛琳粉,麦饭石 注册资金: 人民币 100 万元以下 供应信息 公司介绍 企业已认证 个人实名未认证",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "已读取并识别页面主体，未认证工商或信用",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "名称",
+            "url": "https://info.b2b168.com/s168-296361231.html",
+            "excerpt": "灵寿县京鹏矿产品加工厂 | 灵寿县京鹏矿产品加工厂 所在区域: 河北石家庄新华区 经营性质: 个体经营 企业类型: 生产加工 注册地: 灵寿县慈裕镇西伍河村 主营产品: 电气石,托玛琳粉,麦饭石 注册资金: 人民币 100 万元以下 供应信息 公司介绍 企业已认证 个人实名未认证 | {\"@type\": \"Organization\", \"name\": \"灵寿县京鹏矿产品加工厂\", \"telephone\": \"15932499898\", \"url\": \"https://jingpengkuangye.b2b168.com/\", \"_product\": \"多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加\", \"_product_description\": \"多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加,八方资源网云集了众多的麦饭石粉,麦饭石颗粒,净化水质麦饭石供应商，采购商，制造商。这是 多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加 的详细页面。麦饭石是一种硅酸盐矿物，学名:石英二长岩。 麦饭石的主要化学成分是无机的硅铝酸盐。其中包括SiO2、Al2O3、Fe2O3、FeO、MgO、CaO、K2O、Na2O、TiO2、P2O5、MnO等，还含有动物所需的全部常量元素，如：K、Na、Ca、Mg、Cu、Mo等微量元素和稀土元素，约58种之..\", \"_role\": \"manufacturer\"}",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家/供应商页面主体文本提取",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "主营产品",
+            "url": "https://info.b2b168.com/s168-296361231.html",
+            "excerpt": "多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加,八方资源网云集了众多的麦饭石粉,麦饭石颗粒,净化水质麦饭石供应商,采购商,制造商。这是 多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加 的详细页面。麦饭石是一种硅酸盐矿物,学名:石英二长岩。 麦饭石的主要化学成分是无机的硅铝酸盐。其中包括SiO2、Al2O3、Fe2O3、FeO、MgO、CaO、K2O、Na2O、TiO2、P2O5、MnO等,还含有动物所需的全部常量元素,如:K、Na、Ca、Mg、Cu、Mo等微量元素和稀土元素,约58种之..",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家页面公开产品描述",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "经营范围",
+            "url": "https://info.b2b168.com/s168-296361231.html",
+            "excerpt": "电气石,托玛琳粉,麦饭石；灵寿县京鹏矿产品加工厂 所在区域: 河北石家庄新华区 经营性质: 个体经营 企业类型: 生产加工 注册地: 灵寿县慈裕镇西伍河村 主营产品: 电气石,托玛琳粉,麦饭石 注册资金: 人民币 100 万元以下 供应信息 公司介绍 企业已认证 个人实名未认证；多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加,八方资源网云集了众多的麦饭石粉,麦饭石颗粒,净化水质麦饭石供应商,采购商,制造商。这是 多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加 的详细页面。麦饭石是一种硅酸盐矿物,学名:石英二长岩。 麦饭石的主要化学成分是无机的硅铝酸盐。其中包括SiO2、Al2O3、Fe2O3、FeO、MgO、CaO、K2O、Na2O、TiO2、P2O5、MnO等,还含有动物所需的全部常量元素,如:K、Na、Ca、Mg、Cu、Mo等微量元素和稀土元素,约58种之..",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "公开业务描述，未核实工商登记范围",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "地区地址",
+            "url": "https://info.b2b168.com/s168-296361231.html",
+            "excerpt": "灵寿县京鹏矿产品加工厂 李建英 (经理) 手机:15932499898 地址: 河北 石家庄 新华区 *北大街298号颐宏大厦A座2405 邮编:050000 网址:http://jingpengkuangye.b2b168.com/",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "页面公开地址，未实地核实",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "电话",
+            "url": "https://info.b2b168.com/s168-296361231.html",
+            "excerpt": "结构化供应主体 灵寿县京鹏矿产品加工厂；telephone=15932499898",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家公开联系方式，号码有效性待核实",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          }
+        ],
+        "negative_status": "未检查",
+        "score": 0,
+        "score_reasons": [],
+        "notes": "页面主体与产品相关性已按公开内容识别；未进行工商资质、信用或电话归属的外部认证。",
+        "updated_at": "2026-11-11T15:58:33+08:00",
+        "page_verified": true,
+        "verification_url": "https://info.b2b168.com/s168-296361231.html",
+        "products": [
+          "多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加",
+          "电气石",
+          "托玛琳粉",
+          "麦饭石"
+        ],
+        "business_scope": "电气石,托玛琳粉,麦饭石；灵寿县京鹏矿产品加工厂 所在区域: 河北石家庄新华区 经营性质: 个体经营 企业类型: 生产加工 注册地: 灵寿县慈裕镇西伍河村 主营产品: 电气石,托玛琳粉,麦饭石 注册资金: 人民币 100 万元以下 供应信息 公司介绍 企业已认证 个人实名未认证；多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加,八方资源网云集了众多的麦饭石粉,麦饭石颗粒,净化水质麦饭石供应商,采购商,制造商。这是 多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加 的详细页面。麦饭石是一种硅酸盐矿物,学名:石英二长岩。 麦饭石的主要化学成分是无机的硅铝酸盐。其中包括SiO2、Al2O3、Fe2O3、FeO、MgO、CaO、K2O、Na2O、TiO2、P2O5、MnO等,还含有动物所需的全部常量元素,如:K、Na、Ca、Mg、Cu、Mo等微量元素和稀土元素,约58种之..",
+        "region": "河北石家庄新华区",
+        "address": "河北 石家庄 新华区 *北大街298号颐宏大厦A座2405",
+        "admission_reasons": [
+          "已实际读取详情页并识别主体：灵寿县京鹏矿产品加工厂（页面企业标题、企业自述经营介绍、结构化产品供应主体）",
+          "厂家自身产品/经营信息与“水处理”匹配：多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加,八方资源网云集了众多的麦饭石粉,麦饭石颗粒,净化水质麦饭石供应商,采购商,制造商。这是 多肉园艺麦饭石粉园艺种植水处理供应多种微量元素饲料添加 的详细页面。麦饭石是一种硅酸盐矿物,学名:石英二长岩。 麦饭石的主要化学成分是无机的硅铝酸盐。其中包括SiO2、Al2O3、Fe2O3、FeO、MgO、CaO、K2O、Na2O、TiO2、P2O5、MnO等,还含有动物所需的全部常量元素,如:K、Na、Ca、Mg、Cu、Mo等微量元素和稀土元素,约58种之..",
+          "厂家生产/制造依据：灵寿县京鹏矿产品加工厂 所在区域: 河北石家庄新华区 经营性质: 个体经营 企业类型: 生产加工 注册地: 灵寿县慈裕镇西伍河村 主营产品: 电气石,托玛琳粉,麦饭石 注册资金: 人民币 100 万元以下 供应信息 公司介绍 企业已认证 个人实名未认证"
+        ]
+      }
+    },
+    {
+      "source": "b2b168",
+      "title": "吴忠全程水处理仪 【全程水处理仪】应用范围",
+      "url": "https://info.b2b168.com/s168-291160498.html",
+      "final_url": "https://info.b2b168.com/s168-291160498.html",
+      "reason": "已读取详情页，厂家主体、产品相关性及生产/供应关系均有页面依据",
+      "company": {
+        "id": "fcca20e3e79e43c28604a6b8528d1089",
+        "name": "安徽励进环保科技有限公司",
+        "name_confirmed": true,
+        "phones": [
+          "17555123030"
+        ],
+        "urls": [
+          "https://info.b2b168.com/s168-291160498.html"
+        ],
+        "hits": [
+          {
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "title": "吴忠全程水处理仪 【全程水处理仪】应用范围",
+            "url": "https://info.b2b168.com/s168-291160498.html",
+            "snippet": "吴忠全程水处理仪 【全程水处理仪】应用范围 吴忠全程水处理仪 面议 安徽励进环保科技有限公司安徽-蚌埠",
+            "search_url": "https://www.b2b168.com/k-shuichuli/",
+            "ad_status": "未标识",
+            "fetched_at": "2026-11-11T15:58:25+08:00",
+            "source_url": "https://www.b2b168.com/k-shuichuli/",
+            "company_hint": "安徽励进环保科技有限公司",
+            "source_excerpt": "吴忠全程水处理仪 【全程水处理仪】应用范围 吴忠全程水处理仪 面议 安徽励进环保科技有限公司安徽-蚌埠",
+            "lookup_query": "",
+            "discovery_source": ""
+          }
+        ],
+        "evidence": [
+          {
+            "kind": "收录",
+            "url": "https://info.b2b168.com/s168-291160498.html",
+            "excerpt": "吴忠全程水处理仪 【全程水处理仪】应用范围 吴忠全程水处理仪 【全程水处理仪】应用范围 吴忠全程水处理仪 面议 安徽励进环保科技有限公司安徽-蚌埠",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "搜索发现来源，仅作追溯",
+            "fetched_at": "2026-11-11T15:58:25+08:00"
+          },
+          {
+            "kind": "详情页核验",
+            "url": "https://info.b2b168.com/s168-291160498.html",
+            "excerpt": "已实际读取详情页并识别主体：安徽励进环保科技有限公司（页面企业标题、企业自述经营介绍、结构化产品供应主体） | 厂家自身产品/经营信息与“水处理”匹配：吴忠全程水处理仪 【全程水处理仪】应用范围,八方资源网云集了众多的吴忠全程水处理仪供应商,采购商,制造商。这是 吴忠全程水处理仪 【全程水处理仪】应用范围 的详细页面。全程综合水处理器主要由碳钢筒体、殊结构的不锈钢网、高频电磁场发生器、电晕场发生器及排污装置等组成。通过活性铁质滤膜,机械变径孔阻挡及电晕效应场三位一体的综合过滤体,吸附、浓缩在实际运行工况下*水系统形成的硬度物质及复合垢,降低其浓度,*控制.. | 厂家生产/制造依据：安徽励进环保科技有限公司 所在区域: 安徽蚌埠禹会区 经营性质: 私有企业 企业类型: 生产加工 注册地: 蚌埠市黄山大道8318号(上理大科技园蚌埠基地产业发展南区9号楼三层301室) 主营产品: 定压补水装置,盘式过滤器,叠片式过滤器,砂石过滤器,水力驱动过滤器,叠片过滤器,灌溉过滤器,离心网式过滤器,微泡排气除污装置 注册资金: 人民币 500 - 1000 万元 供应信息 公司介绍 企业已认证 个人实名已认证",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "已读取并识别页面主体，未认证工商或信用",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "名称",
+            "url": "https://info.b2b168.com/s168-291160498.html",
+            "excerpt": "安徽励进环保科技有限公司 | 安徽励进环保科技有限公司 所在区域: 安徽蚌埠禹会区 经营性质: 私有企业 企业类型: 生产加工 注册地: 蚌埠市黄山大道8318号(上理大科技园蚌埠基地产业发展南区9号楼三层301室) 主营产品: 定压补水装置,盘式过滤器,叠片式过滤器,砂石过滤器,水力驱动过滤器,叠片过滤器,灌溉过滤器,离心网式过滤器,微泡排气除污装置 注册资金: 人民币 500 - 1000 万元 供应信息 公司介绍 企业已认证 个人实名已认证 | {\"@type\": \"Organization\", \"name\": \"安徽励进环保科技有限公司\", \"telephone\": \"17555123030\", \"url\": \"https://lijinhb.cn.b2b168.com/\", \"_product\": \"吴忠全程水处理仪 【全程水处理仪】应用范围\", \"_product_description\": \"吴忠全程水处理仪 【全程水处理仪】应用范围,八方资源网云集了众多的吴忠全程水处理仪供应商，采购商，制造商。这是 吴忠全程水处理仪 【全程水处理仪】应用范围 的详细页面。全程综合水处理器主要由碳钢筒体、殊结构的不锈钢网、高频电磁场发生器、电晕场发生器及排污装置等组成。通过活性铁质滤膜，机械变径孔阻挡及电晕效应场三位一体的综合过滤体，吸附、浓缩在实际运行工况下*水系统形成的硬度物质及复合垢，降低其浓度，*控制..\", \"_role\": \"manufacturer\"}",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家/供应商页面主体文本提取",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "主营产品",
+            "url": "https://info.b2b168.com/s168-291160498.html",
+            "excerpt": "吴忠全程水处理仪 【全程水处理仪】应用范围,八方资源网云集了众多的吴忠全程水处理仪供应商,采购商,制造商。这是 吴忠全程水处理仪 【全程水处理仪】应用范围 的详细页面。全程综合水处理器主要由碳钢筒体、殊结构的不锈钢网、高频电磁场发生器、电晕场发生器及排污装置等组成。通过活性铁质滤膜,机械变径孔阻挡及电晕效应场三位一体的综合过滤体,吸附、浓缩在实际运行工况下*水系统形成的硬度物质及复合垢,降低其浓度,*控制..",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家页面公开产品描述",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "经营范围",
+            "url": "https://info.b2b168.com/s168-291160498.html",
+            "excerpt": "定压补水装置,盘式过滤器,叠片式过滤器,砂石过滤器,水力驱动过滤器,叠片过滤器,灌溉过滤器,离心网式过滤器,微泡排气除污装置；吴忠全程水处理仪 【全程水处理仪】应用范围,八方资源网云集了众多的吴忠全程水处理仪供应商,采购商,制造商。这是 吴忠全程水处理仪 【全程水处理仪】应用范围 的详细页面。全程综合水处理器主要由碳钢筒体、殊结构的不锈钢网、高频电磁场发生器、电晕场发生器及排污装置等组成。通过活性铁质滤膜,机械变径孔阻挡及电晕效应场三位一体的综合过滤体,吸附、浓缩在实际运行工况下*水系统形成的硬度物质及复合垢,降低其浓度,*控制..",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "公开业务描述，未核实工商登记范围",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "地区地址",
+            "url": "https://info.b2b168.com/s168-291160498.html",
+            "excerpt": "安徽励进环保科技有限公司 陈旭东 (经理) 传真:0552-3063110 地址: 安徽 蚌埠 禹会区 黄山大道7829号 网址:http://lijinhb.cn.b2b168.com/",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "页面公开地址，未实地核实",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "电话",
+            "url": "https://info.b2b168.com/s168-291160498.html",
+            "excerpt": "结构化供应主体 安徽励进环保科技有限公司；telephone=17555123030",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家公开联系方式，号码有效性待核实",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          }
+        ],
+        "negative_status": "未检查",
+        "score": 0,
+        "score_reasons": [],
+        "notes": "页面主体与产品相关性已按公开内容识别；未进行工商资质、信用或电话归属的外部认证。",
+        "updated_at": "2026-11-11T15:58:33+08:00",
+        "page_verified": true,
+        "verification_url": "https://info.b2b168.com/s168-291160498.html",
+        "products": [
+          "吴忠全程水处理仪 【全程水处理仪】应用范围",
+          "定压补水装置",
+          "盘式过滤器",
+          "叠片式过滤器",
+          "砂石过滤器",
+          "水力驱动过滤器",
+          "叠片过滤器",
+          "灌溉过滤器",
+          "离心网式过滤器",
+          "微泡排气除污装置",
+          "机械变径孔阻挡"
+        ],
+        "business_scope": "定压补水装置,盘式过滤器,叠片式过滤器,砂石过滤器,水力驱动过滤器,叠片过滤器,灌溉过滤器,离心网式过滤器,微泡排气除污装置；吴忠全程水处理仪 【全程水处理仪】应用范围,八方资源网云集了众多的吴忠全程水处理仪供应商,采购商,制造商。这是 吴忠全程水处理仪 【全程水处理仪】应用范围 的详细页面。全程综合水处理器主要由碳钢筒体、殊结构的不锈钢网、高频电磁场发生器、电晕场发生器及排污装置等组成。通过活性铁质滤膜,机械变径孔阻挡及电晕效应场三位一体的综合过滤体,吸附、浓缩在实际运行工况下*水系统形成的硬度物质及复合垢,降低其浓度,*控制..",
+        "region": "安徽蚌埠禹会区",
+        "address": "安徽 蚌埠 禹会区 黄山大道7829号",
+        "admission_reasons": [
+          "已实际读取详情页并识别主体：安徽励进环保科技有限公司（页面企业标题、企业自述经营介绍、结构化产品供应主体）",
+          "厂家自身产品/经营信息与“水处理”匹配：吴忠全程水处理仪 【全程水处理仪】应用范围,八方资源网云集了众多的吴忠全程水处理仪供应商,采购商,制造商。这是 吴忠全程水处理仪 【全程水处理仪】应用范围 的详细页面。全程综合水处理器主要由碳钢筒体、殊结构的不锈钢网、高频电磁场发生器、电晕场发生器及排污装置等组成。通过活性铁质滤膜,机械变径孔阻挡及电晕效应场三位一体的综合过滤体,吸附、浓缩在实际运行工况下*水系统形成的硬度物质及复合垢,降低其浓度,*控制..",
+          "厂家生产/制造依据：安徽励进环保科技有限公司 所在区域: 安徽蚌埠禹会区 经营性质: 私有企业 企业类型: 生产加工 注册地: 蚌埠市黄山大道8318号(上理大科技园蚌埠基地产业发展南区9号楼三层301室) 主营产品: 定压补水装置,盘式过滤器,叠片式过滤器,砂石过滤器,水力驱动过滤器,叠片过滤器,灌溉过滤器,离心网式过滤器,微泡排气除污装置 注册资金: 人民币 500 - 1000 万元 供应信息 公司介绍 企业已认证 个人实名已认证"
+        ]
+      }
+    },
+    {
+      "source": "b2b168",
+      "title": "江西污水处理片碱 用于水处理调节PH值 易溶于水",
+      "url": "https://info.b2b168.com/s168-294169618.html",
+      "final_url": "https://info.b2b168.com/s168-294169618.html",
+      "reason": "同页存在多个供应商主体，属于列表或归属不明确，需要进入单一厂家详情",
+      "company": null
+    },
+    {
+      "source": "b2b168",
+      "title": "美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化",
+      "url": "https://info.b2b168.com/s168-293349556.html",
+      "final_url": "https://info.b2b168.com/s168-293349556.html",
+      "reason": "已读取详情页，厂家主体、产品相关性及生产/供应关系均有页面依据",
+      "company": {
+        "id": "7bc6da0866e64fe5851989e904c59b6a",
+        "name": "四川赛诺行环保科技有限公司",
+        "name_confirmed": true,
+        "phones": [
+          "15196282040",
+          "0816-2112989"
+        ],
+        "urls": [
+          "https://info.b2b168.com/s168-293349556.html"
+        ],
+        "hits": [
+          {
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "title": "美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化",
+            "url": "https://info.b2b168.com/s168-293349556.html",
+            "snippet": "美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化 美能滤膜组件设备 150.00元/平方米 四川赛诺行环保科技有限公司四川-绵阳",
+            "search_url": "https://www.b2b168.com/k-shuichuli/",
+            "ad_status": "未标识",
+            "fetched_at": "2026-11-11T15:58:25+08:00",
+            "source_url": "https://www.b2b168.com/k-shuichuli/",
+            "company_hint": "四川赛诺行环保科技有限公司",
+            "source_excerpt": "美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化 美能滤膜组件设备 150.00元/平方米 四川赛诺行环保科技有限公司四川-绵阳",
+            "lookup_query": "",
+            "discovery_source": ""
+          }
+        ],
+        "evidence": [
+          {
+            "kind": "收录",
+            "url": "https://info.b2b168.com/s168-293349556.html",
+            "excerpt": "美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化 美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化 美能滤膜组件设备 150.00元/平方米 四川赛诺行环保科技有限公司四川-绵阳",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "搜索发现来源，仅作追溯",
+            "fetched_at": "2026-11-11T15:58:25+08:00"
+          },
+          {
+            "kind": "详情页核验",
+            "url": "https://info.b2b168.com/s168-293349556.html",
+            "excerpt": "已实际读取详情页并识别主体：四川赛诺行环保科技有限公司（页面企业标题、企业自述经营介绍、结构化产品供应主体） | 厂家自身产品/经营信息与“水处理”匹配：美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化,八方资源网云集了众多的美能滤膜组件设备,滤膜分离设备,PVDF中空纤维膜,美能MBR膜组件设备,滤膜柱式膜设备供应商,采购商,制造商。这是 美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化 的详细页面。美能膜的优势,在于多年以来坚持做技术,技术研发费用占据大部分费用,中信环境控股美能材料科技,一直以来都是大众信赖的国产膜产品。关注美能UF-0615ed双端产水滤膜组件的都会有所疑问,为什么这种双端产水的要贵那么多,每个厂家报价参差不齐,这又是为什.. | 厂家生产/制造依据：四川赛诺行环保科技有限公司 所在区域: 四川绵阳涪城区 经营性质: 外商独资企业 企业类型: 生产加工 注册地: 四川 绵阳 涪城区 创业园街道 四川省绵阳市科教创业园区创业大道中段249号 主营产品: pvdf超滤膜,美能膜,MBR膜 注册资金: 人民币 1000 - 5000 万元 供应信息 公司介绍 企业已认证 个人实名未认证",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "已读取并识别页面主体，未认证工商或信用",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "名称",
+            "url": "https://info.b2b168.com/s168-293349556.html",
+            "excerpt": "四川赛诺行环保科技有限公司 | 四川赛诺行环保科技有限公司 所在区域: 四川绵阳涪城区 经营性质: 外商独资企业 企业类型: 生产加工 注册地: 四川 绵阳 涪城区 创业园街道 四川省绵阳市科教创业园区创业大道中段249号 主营产品: pvdf超滤膜,美能膜,MBR膜 注册资金: 人民币 1000 - 5000 万元 供应信息 公司介绍 企业已认证 个人实名未认证 | 美能膜的优势,在于多年以来坚持做技术,技术研发费用占据大部分费用,中信环境控股美能材料科技,一直以来都是大众信赖的国产膜产品。 关注美能UF-0615ed双端产水滤膜组件的都会有所疑问,为什么这种双端产水的要贵那么多,每个厂家报价参差不齐,这又是为什么?报价也没有一个相对合理扥范畴,那是因为很多膜产品有不同的代理商,口碑也会影响价格,有的膜厂家研发自主生产,这样少了中间商,原厂发货价格上就会少很多,不一定进口膜就贵,比如美能虽说是进口膜,但是国内有生产基地,所以美能UF-0615ed双端产水滤膜组件或者其他型号的膜组件价格也会相对低很多,而且质量有,! 四川赛诺行环保科技有限公司是一家依托美能发展起来的膜技术服务公司,是美能特别授权经销商。践行“系统膜技术、高性价比膜产品支撑、全生命周期服务”的商业模式。 团队优势: 团队成员多数具有从事十年以上滤膜产品制造及膜工艺水处理工程设计、运营工作经历。基于长期受益于美能团队的培养、指导,一脉相承了美能的膜应用技术,特别擅长美能公司中空纤维滤膜的工程应用。同时,也兼修海纳膜行业内的膜产品差异化优势,贯通融会众家膜技术精华,丰富膜应用经验。 业务方向: 专注于水处理膜技术应用,定力于MBR、MCR、CMF、双膜法等主要膜工艺精耕细作。 主要业务: 膜系统方案设计、承揽膜系统工程、膜工艺项目运营服务、代理美能公司浸入式、压力式中空纤维滤膜组件。 | {\"@type\": \"Organization\", \"name\": \"四川赛诺行环保科技有限公司\", \"telephone\": \"15196282040\", \"url\": \"https://snx8072817.b2b168.com/\", \"_product\": \"美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化\", \"_product_description\": \"美能压力式滤膜组件PVDF中空纤维水处理膜水",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家/供应商页面主体文本提取",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "主营产品",
+            "url": "https://info.b2b168.com/s168-293349556.html",
+            "excerpt": "美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化,八方资源网云集了众多的美能滤膜组件设备,滤膜分离设备,PVDF中空纤维膜,美能MBR膜组件设备,滤膜柱式膜设备供应商,采购商,制造商。这是 美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化 的详细页面。美能膜的优势,在于多年以来坚持做技术,技术研发费用占据大部分费用,中信环境控股美能材料科技,一直以来都是大众信赖的国产膜产品。关注美能UF-0615ed双端产水滤膜组件的都会有所疑问,为什么这种双端产水的要贵那么多,每个厂家报价参差不齐,这又是为什..",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家页面公开产品描述",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "经营范围",
+            "url": "https://info.b2b168.com/s168-293349556.html",
+            "excerpt": "pvdf超滤膜,美能膜,MBR膜；四川赛诺行环保科技有限公司 所在区域: 四川绵阳涪城区 经营性质: 外商独资企业 企业类型: 生产加工 注册地: 四川 绵阳 涪城区 创业园街道 四川省绵阳市科教创业园区创业大道中段249号 主营产品: pvdf超滤膜,美能膜,MBR膜 注册资金: 人民币 1000 - 5000 万元 供应信息 公司介绍 企业已认证 个人实名未认证；美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化,八方资源网云集了众多的美能滤膜组件设备,滤膜分离设备,PVDF中空纤维膜,美能MBR膜组件设备,滤膜柱式膜设备供应商,采购商,制造商。这是 美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化 的详细页面。美能膜的优势,在于多年以来坚持做技术,技术研发费用占据大部分费用,中信环境控股美能材料科技,一直以来都是大众信赖的国产膜产品。关注美能UF-0615ed双端产水滤膜组件的都会有所疑问,为什么这种双端产水的要贵那么多,每个厂家报价参差不齐,这又是为什..",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "公开业务描述，未核实工商登记范围",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "地区地址",
+            "url": "https://info.b2b168.com/s168-293349556.html",
+            "excerpt": "四川赛诺行环保科技有限公司 邱 (商务部经理) 电话:0816-2112989 手机:15196282040 地址: 四川 绵阳 涪城区 创新中心11号楼1508 网址:http://snx8072817.b2b168.com/",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "页面公开地址，未实地核实",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "电话",
+            "url": "https://info.b2b168.com/s168-293349556.html",
+            "excerpt": "结构化供应主体 四川赛诺行环保科技有限公司；telephone=15196282040",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家公开联系方式，号码有效性待核实",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "电话",
+            "url": "https://info.b2b168.com/s168-293349556.html",
+            "excerpt": "四川赛诺行环保科技有限公司 邱 (商务部经理) 电话:0816-2112989 手机:15196282040 地址: 四川 绵阳 涪城区 创新中心11号楼1508 网址:http://snx8072817.b2b168.com/",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家公开联系方式，号码有效性待核实",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          }
+        ],
+        "negative_status": "未检查",
+        "score": 0,
+        "score_reasons": [],
+        "notes": "页面主体与产品相关性已按公开内容识别；未进行工商资质、信用或电话归属的外部认证。",
+        "updated_at": "2026-11-11T15:58:33+08:00",
+        "page_verified": true,
+        "verification_url": "https://info.b2b168.com/s168-293349556.html",
+        "products": [
+          "美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化",
+          "pvdf超滤膜",
+          "美能膜",
+          "MBR膜",
+          "美能滤膜组件设备",
+          "滤膜分离设备",
+          "美能MBR膜组件设备",
+          "滤膜柱式膜设备供应商",
+          "这是 美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化 的详细页面",
+          "中信环境控股美能材料科技",
+          "关注美能UF-0615ed双端产水滤膜组件的都会有所疑问"
+        ],
+        "business_scope": "pvdf超滤膜,美能膜,MBR膜；四川赛诺行环保科技有限公司 所在区域: 四川绵阳涪城区 经营性质: 外商独资企业 企业类型: 生产加工 注册地: 四川 绵阳 涪城区 创业园街道 四川省绵阳市科教创业园区创业大道中段249号 主营产品: pvdf超滤膜,美能膜,MBR膜 注册资金: 人民币 1000 - 5000 万元 供应信息 公司介绍 企业已认证 个人实名未认证；美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化,八方资源网云集了众多的美能滤膜组件设备,滤膜分离设备,PVDF中空纤维膜,美能MBR膜组件设备,滤膜柱式膜设备供应商,采购商,制造商。这是 美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化 的详细页面。美能膜的优势,在于多年以来坚持做技术,技术研发费用占据大部分费用,中信环境控股美能材料科技,一直以来都是大众信赖的国产膜产品。关注美能UF-0615ed双端产水滤膜组件的都会有所疑问,为什么这种双端产水的要贵那么多,每个厂家报价参差不齐,这又是为什..",
+        "region": "四川绵阳涪城区",
+        "address": "四川 绵阳 涪城区 创新中心11号楼1508",
+        "admission_reasons": [
+          "已实际读取详情页并识别主体：四川赛诺行环保科技有限公司（页面企业标题、企业自述经营介绍、结构化产品供应主体）",
+          "厂家自身产品/经营信息与“水处理”匹配：美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化,八方资源网云集了众多的美能滤膜组件设备,滤膜分离设备,PVDF中空纤维膜,美能MBR膜组件设备,滤膜柱式膜设备供应商,采购商,制造商。这是 美能压力式滤膜组件PVDF中空纤维水处理膜水处理海水淡化 的详细页面。美能膜的优势,在于多年以来坚持做技术,技术研发费用占据大部分费用,中信环境控股美能材料科技,一直以来都是大众信赖的国产膜产品。关注美能UF-0615ed双端产水滤膜组件的都会有所疑问,为什么这种双端产水的要贵那么多,每个厂家报价参差不齐,这又是为什..",
+          "厂家生产/制造依据：四川赛诺行环保科技有限公司 所在区域: 四川绵阳涪城区 经营性质: 外商独资企业 企业类型: 生产加工 注册地: 四川 绵阳 涪城区 创业园街道 四川省绵阳市科教创业园区创业大道中段249号 主营产品: pvdf超滤膜,美能膜,MBR膜 注册资金: 人民币 1000 - 5000 万元 供应信息 公司介绍 企业已认证 个人实名未认证"
+        ]
+      }
+    },
+    {
+      "source": "b2b168",
+      "title": "电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源",
+      "url": "https://info.b2b168.com/s168-293385656.html",
+      "final_url": "https://info.b2b168.com/s168-293385656.html",
+      "reason": "已读取详情页，厂家主体、产品相关性及生产/供应关系均有页面依据",
+      "company": {
+        "id": "b37dd6097d3b4e1b934937dbc5a98d0a",
+        "name": "青岛华能远见电气有限公司",
+        "name_confirmed": true,
+        "phones": [
+          "13608980122",
+          "0532-88365027"
+        ],
+        "urls": [
+          "https://info.b2b168.com/s168-293385656.html"
+        ],
+        "hits": [
+          {
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "title": "电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源",
+            "url": "https://info.b2b168.com/s168-293385656.html",
+            "snippet": "电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源 电絮凝水处理脉冲电源 98.00元/个 青岛华能远见电气有限公司山东-青岛",
+            "search_url": "https://www.b2b168.com/k-shuichuli/",
+            "ad_status": "未标识",
+            "fetched_at": "2026-11-11T15:58:25+08:00",
+            "source_url": "https://www.b2b168.com/k-shuichuli/",
+            "company_hint": "青岛华能远见电气有限公司",
+            "source_excerpt": "电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源 电絮凝水处理脉冲电源 98.00元/个 青岛华能远见电气有限公司山东-青岛",
+            "lookup_query": "",
+            "discovery_source": ""
+          }
+        ],
+        "evidence": [
+          {
+            "kind": "收录",
+            "url": "https://info.b2b168.com/s168-293385656.html",
+            "excerpt": "电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源 电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源 电絮凝水处理脉冲电源 98.00元/个 青岛华能远见电气有限公司山东-青岛",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "搜索发现来源，仅作追溯",
+            "fetched_at": "2026-11-11T15:58:25+08:00"
+          },
+          {
+            "kind": "详情页核验",
+            "url": "https://info.b2b168.com/s168-293385656.html",
+            "excerpt": "已实际读取详情页并识别主体：青岛华能远见电气有限公司（页面企业标题、企业自述经营介绍、结构化产品供应主体） | 厂家自身产品/经营信息与“水处理”匹配：电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源,八方资源网云集了众多的电絮凝水处理脉冲电源供应商,采购商,制造商。这是 电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源 的详细页面。本款电源在功率区间内,电压、电流的组合都能够以全功率输出,单台电源涵盖传统电源3~5台的应用,三台电源则可覆盖传统10~13台,大幅降低电源系统搭建的复杂度及占用空间。由于以上恒功率特性,本款电源多应用于实验室和自动测试系统中提供大功率、稳定的直.. | 厂家生产/制造依据：青岛华能远见电气有限公司 会员 20 年 所在区域: 山东青岛平度市 经营性质: 外商独资企业 企业类型: 生产加工 注册地: 山东 青岛 平度市 平度南京路27号 主营产品: 大电流发生器,电能表检定装置,交直流仪表检定装置 公司介绍 供应信息 联系方式 企业已认证 个人实名已认证",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "已读取并识别页面主体，未认证工商或信用",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "名称",
+            "url": "https://info.b2b168.com/s168-293385656.html",
+            "excerpt": "青岛华能远见电气有限公司 | 青岛华能远见电气有限公司 会员 20 年 所在区域: 山东青岛平度市 经营性质: 外商独资企业 企业类型: 生产加工 注册地: 山东 青岛 平度市 平度南京路27号 主营产品: 大电流发生器,电能表检定装置,交直流仪表检定装置 公司介绍 供应信息 联系方式 企业已认证 个人实名已认证 | {\"@type\": \"Organization\", \"name\": \"青岛华能远见电气有限公司\", \"telephone\": \"13608980122\", \"url\": \"https://qdhnyjdq.cn.b2b168.com/\", \"_product\": \"电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源\", \"_product_description\": \"电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源,八方资源网云集了众多的电絮凝水处理脉冲电源供应商，采购商，制造商。这是 电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源 的详细页面。本款电源在功率区间内，电压、电流的组合都能够以全功率输出，单台电源涵盖传统电源3~5台的应用，三台电源则可覆盖传统10~13台，大幅降低电源系统搭建的复杂度及占用空间。由于以上恒功率特性，本款电源多应用于实验室和自动测试系统中提供大功率、稳定的直..\", \"_role\": \"manufacturer\"}",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家/供应商页面主体文本提取",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "主营产品",
+            "url": "https://info.b2b168.com/s168-293385656.html",
+            "excerpt": "电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源,八方资源网云集了众多的电絮凝水处理脉冲电源供应商,采购商,制造商。这是 电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源 的详细页面。本款电源在功率区间内,电压、电流的组合都能够以全功率输出,单台电源涵盖传统电源3~5台的应用,三台电源则可覆盖传统10~13台,大幅降低电源系统搭建的复杂度及占用空间。由于以上恒功率特性,本款电源多应用于实验室和自动测试系统中提供大功率、稳定的直..",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家页面公开产品描述",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "经营范围",
+            "url": "https://info.b2b168.com/s168-293385656.html",
+            "excerpt": "大电流发生器,电能表检定装置,交直流仪表检定装置；青岛华能远见电气有限公司 会员 20 年 所在区域: 山东青岛平度市 经营性质: 外商独资企业 企业类型: 生产加工 注册地: 山东 青岛 平度市 平度南京路27号 主营产品: 大电流发生器,电能表检定装置,交直流仪表检定装置 公司介绍 供应信息 联系方式 企业已认证 个人实名已认证；电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源,八方资源网云集了众多的电絮凝水处理脉冲电源供应商,采购商,制造商。这是 电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源 的详细页面。本款电源在功率区间内,电压、电流的组合都能够以全功率输出,单台电源涵盖传统电源3~5台的应用,三台电源则可覆盖传统10~13台,大幅降低电源系统搭建的复杂度及占用空间。由于以上恒功率特性,本款电源多应用于实验室和自动测试系统中提供大功率、稳定的直..",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "公开业务描述，未核实工商登记范围",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "地区地址",
+            "url": "https://info.b2b168.com/s168-293385656.html",
+            "excerpt": "青岛华能远见电气有限公司 车高平 (主管) 电话:0532-88365027 手机:13608980122 地址: 山东 青岛 平度市 平度南京路27号 网址:http://qdhnyjdq.cn.b2b168.com/",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "页面公开地址，未实地核实",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "电话",
+            "url": "https://info.b2b168.com/s168-293385656.html",
+            "excerpt": "结构化供应主体 青岛华能远见电气有限公司；telephone=13608980122",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家公开联系方式，号码有效性待核实",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          },
+          {
+            "kind": "电话",
+            "url": "https://info.b2b168.com/s168-293385656.html",
+            "excerpt": "青岛华能远见电气有限公司 车高平 (主管) 电话:0532-88365027 手机:13608980122 地址: 山东 青岛 平度市 平度南京路27号 网址:http://qdhnyjdq.cn.b2b168.com/",
+            "engine": "b2b168",
+            "query": "水处理",
+            "page": 1,
+            "status": "厂家公开联系方式，号码有效性待核实",
+            "fetched_at": "2026-11-11T15:58:33+08:00"
+          }
+        ],
+        "negative_status": "未检查",
+        "score": 0,
+        "score_reasons": [],
+        "notes": "页面主体与产品相关性已按公开内容识别；未进行工商资质、信用或电话归属的外部认证。",
+        "updated_at": "2026-11-11T15:58:33+08:00",
+        "page_verified": true,
+        "verification_url": "https://info.b2b168.com/s168-293385656.html",
+        "products": [
+          "电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源",
+          "大电流发生器",
+          "电能表检定装置",
+          "交直流仪表检定装置"
+        ],
+        "business_scope": "大电流发生器,电能表检定装置,交直流仪表检定装置；青岛华能远见电气有限公司 会员 20 年 所在区域: 山东青岛平度市 经营性质: 外商独资企业 企业类型: 生产加工 注册地: 山东 青岛 平度市 平度南京路27号 主营产品: 大电流发生器,电能表检定装置,交直流仪表检定装置 公司介绍 供应信息 联系方式 企业已认证 个人实名已认证；电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源,八方资源网云集了众多的电絮凝水处理脉冲电源供应商,采购商,制造商。这是 电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源 的详细页面。本款电源在功率区间内,电压、电流的组合都能够以全功率输出,单台电源涵盖传统电源3~5台的应用,三台电源则可覆盖传统10~13台,大幅降低电源系统搭建的复杂度及占用空间。由于以上恒功率特性,本款电源多应用于实验室和自动测试系统中提供大功率、稳定的直..",
+        "region": "山东青岛平度市",
+        "address": "山东 青岛 平度市 平度南京路27号",
+        "admission_reasons": [
+          "已实际读取详情页并识别主体：青岛华能远见电气有限公司（页面企业标题、企业自述经营介绍、结构化产品供应主体）",
+          "厂家自身产品/经营信息与“水处理”匹配：电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源,八方资源网云集了众多的电絮凝水处理脉冲电源供应商,采购商,制造商。这是 电絮凝水处理脉冲电源 污水处理电源 电机测试直流电源 的详细页面。本款电源在功率区间内,电压、电流的组合都能够以全功率输出,单台电源涵盖传统电源3~5台的应用,三台电源则可覆盖传统10~13台,大幅降低电源系统搭建的复杂度及占用空间。由于以上恒功率特性,本款电源多应用于实验室和自动测试系统中提供大功率、稳定的直..",
+          "厂家生产/制造依据：青岛华能远见电气有限公司 会员 20 年 所在区域: 山东青岛平度市 经营性质: 外商独资企业 企业类型: 生产加工 注册地: 山东 青岛 平度市 平度南京路27号 主营产品: 大电流发生器,电能表检定装置,交直流仪表检定装置 公司介绍 供应信息 联系方式 企业已认证 个人实名已认证"
+        ]
+      }
+    }
+  ]
+}

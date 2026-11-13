@@ -1,0 +1,32 @@
+ManufacturerRadar third-party notices
+
+Bundled Windows portable distribution includes Python 3.14.8 and Tcl/Tk 9.0.4.
+Python: Python Software Foundation License. https://docs.python.org/3/license.html
+Tcl/Tk: Tcl/Tk license (BSD-style). https://www.tcl-lang.org/software/tcltk/license.html
+
+Python packages (actual bundled metadata and license texts accompany the package):
+requests 2.34.2 (Apache-2.0) https://requests.readthedocs.io/
+beautifulsoup4 4.15.0 (MIT) https://www.crummy.com/software/BeautifulSoup/
+soupsieve 4.1 (MIT) https://github.com/facelessuser/soupsieve
+openpyxl 3.1.5 (MIT) https://openpyxl.readthedocs.io/
+et-xmlfile 2.0.0 (MIT) https://foss.heptapod.net/openpyxl/et_xmlfile
+urllib3 2.8.0 (MIT) https://urllib3.readthedocs.io/
+certifi 2026.10.23 (MPL-2.0) https://github.com/certifi/python-certifi
+charset-normalizer 3.5.2 (MIT) https://github.com/jawah/charset_normalizer
+idna 3.20 (BSD-3-Clause) https://github.com/kjd/idna
+typing-extensions 4.16.0 (PSF-2.0) https://github.com/python/typing_extensions
+Pillow 13.0.0 (MIT-CMU and bundled library notices) https://python-pillow.org/
+pypdf 6.21.4 (BSD-3-Clause) https://github.com/py-pdf/pypdf
+pypinyin 0.55.0 (MIT) https://github.com/mozillazg/python-pinyin
+Playwright 1.65.0 (Apache-2.0) https://github.com/microsoft/playwright-python
+greenlet 3.5.6 (MIT and PSF-2.0) https://github.com/python-greenlet/greenlet
+Playwright includes its Node.js driver and third-party notices; see its bundled
+driver/LICENSE and package/NOTICE. Browser executables are not included.
+
+Executable created with PyInstaller 6.22.3, GPL-2.0-or-later with a bootloader
+exception permitting distribution of applications under their own licenses.
+https://pyinstaller.org/en/stable/license.html
+
+Search engine names and trademarks belong to their respective owners. This
+application is an independent public-web information tool and is not affiliated
+with any listed search engine.

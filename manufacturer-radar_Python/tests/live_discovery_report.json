@@ -1,0 +1,38 @@
+[
+  {
+    "name": "gysproductreal",
+    "url": "https://product.gys.cn/suppliers/%CB%AE%B4%A6%C0%ED/",
+    "error": "HTTPFetchError: 服务器返回 HTTP 404"
+  },
+  {
+    "name": "b2bp2",
+    "url": "https://www.b2b168.com/k-shuichuli/l-2.html",
+    "error": "HTTPFetchError: 服务器返回 HTTP 404"
+  },
+  {
+    "name": "gysproductlist",
+    "url": "https://product.gys.cn/suppliers/%CB%AE%B4%A6%C0%ED/",
+    "error": "HTTPFetchError: 服务器返回 HTTP 404"
+  },
+  {
+    "name": "b2bpage",
+    "url": "https://www.b2b168.com/k-shuichuli-2/",
+    "error": "HTTPFetchError: 服务器返回 HTTP 404"
+  },
+  {
+    "name": "b2bquery",
+    "url": "https://www.b2b168.com/k-shuichuli/?page=2",
+    "final_url": "https://www.b2b168.com/k-shuichuli/?page=2",
+    "length": 23819,
+    "title": "【水处理】水处理黄页|公司名录-水处理供应商|制造商|生产厂家 - 八方资源网",
+    "forms": [
+      "<form action=\"/Index.aspx\" id=\"fSearch\" method=\"post\" target=\"_blank\">\n<span class=\"li02\"><input class=\"Sinput\" id=\"kw\" name=\"q\" placeholder=\"请输入您要搜索的关键词\" type=\"text\" value=\"水处理\"/></span>\n<input class=\"Sbuttom\" type=\"submit\" value=\"八方搜索\"/>\n<input id=\"act\" name=\"act\" type=\"hidden\" value=\"ComSearch\"/>\n<input id=\"page\" name=\"page\" type=\"hidden\"/>\n</form>"
+    ],
+    "links": [
+      [
+        "",
+        "https://ccpj.b2b168.com/shop/supply/39454507.html"
+      ]
+    ]
+  }
+]

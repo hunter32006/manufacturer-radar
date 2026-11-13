@@ -1,0 +1,76 @@
+{
+  "tested_at": "2026-11-11T11:16:50+08:00",
+  "transport": "SearchProvider / network.fetch_text with checked public DNS sockets, a shared five-step HTTP / tiny static HTML / known search wrapper navigation budget, original cancellation/deadline and response size limits. No JavaScript execution or challenge bypass.",
+  "sogou_after_fix": [
+    {
+      "source_host": "www.sogou.com",
+      "source_path": "/link",
+      "result_title": "方形不锈钢水箱厂家 -不锈钢保温水箱-昆明市官渡区健卫不锈钢水箱厂",
+      "final_host": "www.csswt.com",
+      "final_path": "/",
+      "html_title": "方形不锈钢水箱厂家-不锈钢保温水箱-昆明市官渡区健卫不锈钢水箱厂",
+      "chars": 19018,
+      "has_meta_refresh": false,
+      "meta_target_host": "",
+      "js_location_target_hosts": [],
+      "body_excerpt": "方形不锈钢水箱厂家-不锈钢保温水箱-昆明市官渡区健卫不锈钢水箱厂 健卫 - 国内不锈钢水箱行业领导品牌，云南省创办时间最早，规模最大的不锈钢水箱生产商 【官方网址】    https://www.csswt.com/ 官方微博 | 联系我们 首页 | 关于健卫 | 新闻中心 | 产品中心 | 应用领域 | 成功案例 |",
+      "elapsed_seconds": 0.71
+    },
+    {
+      "source_host": "www.sogou.com",
+      "source_path": "/link",
+      "result_title": "不锈钢水箱生产厂家 _消防水箱生产厂家-河南联固供水设备有限公司",
+      "final_host": "www.zzxhsx.com",
+      "final_path": "/",
+      "html_title": "不锈钢水箱生产厂家_消防水箱生产厂家-河南联固供水设备有限公司",
+      "chars": 38229,
+      "has_meta_refresh": false,
+      "meta_target_host": "",
+      "js_location_target_hosts": [],
+      "body_excerpt": "不锈钢水箱生产厂家_消防水箱生产厂家-河南联固供水设备有限公司 您好，欢迎访问河南联固供水设备有限公司网站！ 18339978198 网站首页 关于我们 公司简介 企业资质 车间展示 新闻中心 公司新闻 行业动态 产品展示 不锈钢水箱 镀锌钢板水箱 BDF不锈钢水箱 装配式不锈钢水箱 地埋式水箱 玻璃钢水箱 圆柱形不锈",
+      "elapsed_seconds": 0.35
+    }
+  ],
+  "toutiao_after_fix": [
+    {
+      "source_host": "sou.toutiao.com",
+      "source_path": "/search/jump",
+      "final_host": "www.orbinox.cn",
+      "final_path": "/xi-fen-shi-chang/shui-chu-li",
+      "html_title": "水处理 | Orbinox China",
+      "chars": 18431,
+      "qualified": null,
+      "qualification_reason": "实际页面未识别出完整、可归属的厂家/供应商名称",
+      "elapsed_seconds": 0.45
+    },
+    {
+      "source_host": "sou.toutiao.com",
+      "source_path": "/search/jump",
+      "final_host": "www.lxhs.chemchina.com",
+      "final_path": "/",
+      "html_title": "杭州水处理 > 首　页",
+      "chars": 40746,
+      "qualified": null,
+      "qualification_reason": "实际页面未识别出完整、可归属的厂家/供应商名称",
+      "elapsed_seconds": 3.43
+    }
+  ],
+  "so360_observations": [
+    {
+      "query": "水处理",
+      "status": "SearchBlocked",
+      "reason": "Actual validation/access-limited response detected; not counted as empty successful results."
+    },
+    {
+      "query": "水处理厂家",
+      "status": "explicit_empty",
+      "title": "360搜索",
+      "chars": 3236,
+      "result_cards": 0,
+      "headings": 0,
+      "message": "抱歉，未找到相关结果。"
+    }
+  ],
+  "privacy": "Only engine host/path and destination host/path, visible public titles and small excerpts retained. Opaque result redirect parameters, cookies and raw HTML are excluded.",
+  "limits": "One machine and a few live queries; availability and markup vary. Reaching a real destination alone never qualifies it as a manufacturer; identity and product admission rules still apply."
+}

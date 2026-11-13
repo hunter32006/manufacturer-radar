@@ -1,0 +1,431 @@
+{
+  "tested_at": "2026-11-11T10:34:57+08:00",
+  "query": "不锈钢水箱厂家",
+  "transport": "Actual SearchProvider.fetch -> network.fetch_text; checked public DNS socket connections; no proxies, credentials, browser automation, retries, captcha bypass, or paid API.",
+  "scope": "One machine and one query; availability and HTML can change. Unmarked ads stay unknown. Page count never exceeds three. No raw HTML, cookies, or opaque redirect tokens retained in report.",
+  "engines": [
+    {
+      "engine": "baidu",
+      "name": "百度",
+      "pages": [
+        {
+          "page": 1,
+          "search_url": "https://www.baidu.com/s?wd=%E4%B8%8D%E9%94%88%E9%92%A2%E6%B0%B4%E7%AE%B1%E5%8E%82%E5%AE%B6&pn=0&rn=10",
+          "status": "SearchBlocked",
+          "reason": "captcha",
+          "message": "百度跳转到验证页面，已停止该引擎",
+          "elapsed_seconds": 0.42
+        }
+      ]
+    },
+    {
+      "engine": "sogou",
+      "name": "搜狗",
+      "pages": [
+        {
+          "page": 1,
+          "search_url": "https://www.sogou.com/web?query=%E4%B8%8D%E9%94%88%E9%92%A2%E6%B0%B4%E7%AE%B1%E5%8E%82%E5%AE%B6&page=1",
+          "status": "ok",
+          "count": 10,
+          "explicit_ads": 0,
+          "all_public_http_urls": true,
+          "elapsed_seconds": 1.24,
+          "sample_results": [
+            {
+              "title": "不锈钢水箱 _优质货源_实力商家",
+              "host": "www.360vips.cn",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "方形不锈钢水箱厂家 -不锈钢保温水箱-昆明市官渡区健卫不锈钢水箱厂",
+              "host": "www.sogou.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "不锈钢水箱 （ 水箱产品）- 搜狗百科",
+              "host": "baike.sogou.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "search_url": "https://www.sogou.com/web?query=%E4%B8%8D%E9%94%88%E9%92%A2%E6%B0%B4%E7%AE%B1%E5%8E%82%E5%AE%B6&page=2",
+          "status": "ok",
+          "count": 10,
+          "explicit_ads": 0,
+          "all_public_http_urls": true,
+          "elapsed_seconds": 1.1,
+          "sample_results": [
+            {
+              "title": "不锈钢水箱 -不锈钢保温水箱,消防水箱-不锈钢生活水箱厂家 -东莞加华...",
+              "host": "www.sogou.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "内蒙古联达不锈钢水箱有限公司",
+              "host": "www.sogou.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "不锈钢水箱国内不锈钢水箱厂-搜了网",
+              "host": "www.sogou.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "search_url": "https://www.sogou.com/web?query=%E4%B8%8D%E9%94%88%E9%92%A2%E6%B0%B4%E7%AE%B1%E5%8E%82%E5%AE%B6&page=3",
+          "status": "ok",
+          "count": 10,
+          "explicit_ads": 0,
+          "all_public_http_urls": true,
+          "elapsed_seconds": 0.92,
+          "sample_results": [
+            {
+              "title": "「 不锈钢水箱生产商 」 不锈钢水箱生产商公司黄页 - 顺企网",
+              "host": "www.sogou.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "【 不锈钢水箱厂家哪家便宜】价格,厂家,供水设备-搜了网",
+              "host": "www.sogou.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "产品展示_ 不锈钢水箱 _不锈钢消防水箱_ 不锈钢水箱厂家",
+              "host": "www.sogou.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engine": "so360",
+      "name": "360 搜索",
+      "pages": [
+        {
+          "page": 1,
+          "search_url": "https://www.so.com/s?q=%E4%B8%8D%E9%94%88%E9%92%A2%E6%B0%B4%E7%AE%B1%E5%8E%82%E5%AE%B6&pn=1",
+          "status": "ok",
+          "count": 3,
+          "explicit_ads": 0,
+          "all_public_http_urls": true,
+          "elapsed_seconds": 1.06,
+          "sample_results": [
+            {
+              "title": "不锈钢水箱生产厂家 -批发价格-优质货源 - 百度爱采购",
+              "host": "www.so.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "生产不锈钢水箱厂家 -批发价格-优质货源 - 百度爱采购",
+              "host": "www.so.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "不锈钢水箱厂家直销-批发价格-优质货源 - 百度爱采购",
+              "host": "www.so.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "search_url": "https://www.so.com/s?q=%E4%B8%8D%E9%94%88%E9%92%A2%E6%B0%B4%E7%AE%B1%E5%8E%82%E5%AE%B6&pn=2",
+          "status": "ok",
+          "count": 7,
+          "explicit_ads": 0,
+          "all_public_http_urls": true,
+          "elapsed_seconds": 1.53,
+          "sample_results": [
+            {
+              "title": "不锈钢水箱 |保温水箱|消防水箱_淄博光启不锈钢有限公司生产厂家",
+              "host": "www.so.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "不锈钢水箱生产厂家 - 不锈钢水箱生产厂家批发、促销价格、产地货源 - 阿里巴巴",
+              "host": "www.so.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "不锈钢水箱厂家 -二次供水设备- 箱泵一体化-专业生产不锈钢消防水箱和保温水箱-源塔供水",
+              "host": "www.so.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "search_url": "https://www.so.com/s?q=%E4%B8%8D%E9%94%88%E9%92%A2%E6%B0%B4%E7%AE%B1%E5%8E%82%E5%AE%B6&pn=3",
+          "status": "ok",
+          "count": 7,
+          "explicit_ads": 0,
+          "all_public_http_urls": true,
+          "elapsed_seconds": 2.49,
+          "sample_results": [
+            {
+              "title": "消防水箱 - 不锈钢水箱 -绍兴市百联环保设备有限公司",
+              "host": "www.so.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "杭恩特_浙江不锈钢水箱厂家 _杭州不锈钢水箱厂家 _绍兴|上虞不锈钢水箱厂家 -绍兴市宏坤暖通设备有限公司",
+              "host": "www.so.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "不锈钢水箱 _不锈钢消防水箱_不锈钢保温水箱_品牌厂家价格低 - 嵊州市强信不锈钢制品有限公司",
+              "host": "www.so.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engine": "bing",
+      "name": "Bing",
+      "pages": [
+        {
+          "page": 1,
+          "search_url": "https://www.bing.com/search?q=%E4%B8%8D%E9%94%88%E9%92%A2%E6%B0%B4%E7%AE%B1%E5%8E%82%E5%AE%B6&first=1&count=10",
+          "status": "ok",
+          "count": 10,
+          "explicit_ads": 0,
+          "all_public_http_urls": true,
+          "elapsed_seconds": 0.74,
+          "sample_results": [
+            {
+              "title": "不锈钢（金属材料）_百度百科",
+              "host": "baike.baidu.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "不锈钢，你真的了解吗？关于不锈钢的知识大全！",
+              "host": "www.sohu.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "不锈钢干货，别再分不清 201、202、301、302、304",
+              "host": "zhuanlan.zhihu.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "search_url": "https://www.bing.com/search?q=%E4%B8%8D%E9%94%88%E9%92%A2%E6%B0%B4%E7%AE%B1%E5%8E%82%E5%AE%B6&first=11&count=10",
+          "status": "SearchBlocked",
+          "reason": "repeated",
+          "message": "Bing返回了重复的搜索页，已停止继续翻页",
+          "elapsed_seconds": 0.72
+        }
+      ]
+    },
+    {
+      "engine": "toutiao",
+      "name": "头条搜索",
+      "pages": [
+        {
+          "page": 1,
+          "search_url": "https://so.toutiao.com/search?keyword=%E4%B8%8D%E9%94%88%E9%92%A2%E6%B0%B4%E7%AE%B1%E5%8E%82%E5%AE%B6&pd=synthesis&dvpf=pc&page_num=0",
+          "status": "ok",
+          "count": 9,
+          "explicit_ads": 0,
+          "all_public_http_urls": true,
+          "elapsed_seconds": 1.13,
+          "sample_results": [
+            {
+              "title": "不锈钢消防水箱厂家 _方形组合式不锈钢水箱水塔-大江水箱",
+              "host": "sou.toutiao.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "广东不锈钢方形水箱 _ 不锈钢水箱厂家 -广东长鑫不锈钢制品",
+              "host": "sou.toutiao.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "不锈钢水箱生产厂家 -扬州-常州-苏州-不锈钢水箱-方形水箱-保...",
+              "host": "sou.toutiao.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "search_url": "https://so.toutiao.com/search?keyword=%E4%B8%8D%E9%94%88%E9%92%A2%E6%B0%B4%E7%AE%B1%E5%8E%82%E5%AE%B6&pd=synthesis&dvpf=pc&page_num=1",
+          "status": "ok",
+          "count": 9,
+          "explicit_ads": 0,
+          "all_public_http_urls": true,
+          "elapsed_seconds": 1.18,
+          "sample_results": [
+            {
+              "title": "2022年度《 不锈钢水箱十大生产厂家 》品牌排行榜-土巴兔装修网",
+              "host": "sou.toutiao.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "【专业不锈钢水箱厂家 _专业不锈钢水箱供应商】 - 黄页88",
+              "host": "sou.toutiao.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "【立式卧式不锈钢水箱厂家 】_优质立式卧式不锈钢水箱厂家_立...",
+              "host": "sou.toutiao.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "search_url": "https://so.toutiao.com/search?keyword=%E4%B8%8D%E9%94%88%E9%92%A2%E6%B0%B4%E7%AE%B1%E5%8E%82%E5%AE%B6&pd=synthesis&dvpf=pc&page_num=2",
+          "status": "ok",
+          "count": 9,
+          "explicit_ads": 0,
+          "all_public_http_urls": true,
+          "elapsed_seconds": 0.9,
+          "sample_results": [
+            {
+              "title": "【批发不锈钢水箱厂家 _批发不锈钢水箱供应商】 - 黄页88",
+              "host": "sou.toutiao.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "2022年度《 不锈钢水箱生产厂家 》排行榜，佛山四家水箱厂商-...",
+              "host": "sou.toutiao.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            },
+            {
+              "title": "【 厂家不锈钢水箱厂家 _厂家不锈钢水箱供应商】 - 黄页88",
+              "host": "sou.toutiao.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "engine": "shenma",
+      "name": "神马搜索",
+      "pages": [
+        {
+          "page": 1,
+          "search_url": "https://m.sm.cn/s?q=%E4%B8%8D%E9%94%88%E9%92%A2%E6%B0%B4%E7%AE%B1%E5%8E%82%E5%AE%B6&page=1",
+          "status": "ok",
+          "count": 13,
+          "explicit_ads": 3,
+          "all_public_http_urls": true,
+          "elapsed_seconds": 1.05,
+          "sample_results": [
+            {
+              "title": "图片广告（未提供文字名称）",
+              "host": "m.sm.cn",
+              "has_source_search_url": true,
+              "ad_status": "广告"
+            },
+            {
+              "title": "图片广告（未提供文字名称）",
+              "host": "m.sm.cn",
+              "has_source_search_url": true,
+              "ad_status": "广告"
+            },
+            {
+              "title": "2026年4月不锈钢水箱实力厂家口碑推荐，大型反渗透净水设备/ 不锈钢水箱 /空气能太阳能热水器， 不锈钢水箱厂家哪家强",
+              "host": "www.cnblogs.com",
+              "has_source_search_url": true,
+              "ad_status": "未标识"
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "search_url": "https://m.sm.cn/s?q=%E4%B8%8D%E9%94%88%E9%92%A2%E6%B0%B4%E7%AE%B1%E5%8E%82%E5%AE%B6&page=2",
+          "status": "ok",
+          "count": 2,
+          "explicit_ads": 2,
+          "all_public_http_urls": true,
+          "elapsed_seconds": 0.9,
+          "sample_results": [
+            {
+              "title": "图片广告（未提供文字名称）",
+              "host": "m.sm.cn",
+              "has_source_search_url": true,
+              "ad_status": "广告"
+            },
+            {
+              "title": "图片广告（未提供文字名称）",
+              "host": "m.sm.cn",
+              "has_source_search_url": true,
+              "ad_status": "广告"
+            }
+          ]
+        },
+        {
+          "page": 3,
+          "search_url": "https://m.sm.cn/s?q=%E4%B8%8D%E9%94%88%E9%92%A2%E6%B0%B4%E7%AE%B1%E5%8E%82%E5%AE%B6&page=3",
+          "status": "ok",
+          "count": 2,
+          "explicit_ads": 2,
+          "all_public_http_urls": true,
+          "elapsed_seconds": 0.87,
+          "sample_results": [
+            {
+              "title": "图片广告（未提供文字名称）",
+              "host": "m.sm.cn",
+              "has_source_search_url": true,
+              "ad_status": "广告"
+            },
+            {
+              "title": "图片广告（未提供文字名称）",
+              "host": "m.sm.cn",
+              "has_source_search_url": true,
+              "ad_status": "广告"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "observations": [
+    "Baidu changed from an initially readable page to an actual wappass CAPTCHA during validation; the final adapter stopped and reported that limitation.",
+    "Bing received the complete query (URL and returned page title verified), but returned broad stainless-steel articles; page 2 repeated page 1 and the adapter stopped. Search results are leads requiring relevance and identity checks.",
+    "Shenma pages 2 and 3 contained only two image advertisements each. Its own published JavaScript next-page layout=html URL was separately inspected and contained the same ads-only content; unavailable manufacturer text was not invented.",
+    "No explicit ad badge in Sogou/360/Bing/Toutiao sample results means unknown ad status, not proof that these results were unpaid."
+  ]
+}
